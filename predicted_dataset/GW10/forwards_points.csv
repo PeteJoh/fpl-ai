@@ -1,43 +1,75 @@
 index,name,team,points,value
-Alexander Isak2023-10-28T16:30:00Z,Alexander Isak,Newcastle,2.9713115869400313,75
-Callum Wilson2023-10-28T16:30:00Z,Callum Wilson,Newcastle,3.529454339204885,78
-Ollie Watkins2023-10-29T14:00:00Z,Ollie Watkins,Aston Villa,5.577515172867816,83
-Danny Welbeck2023-10-29T14:00:00Z,Danny Welbeck,Brighton,2.7731824357565613,58
-João Pedro Junqueira de Jesus2023-10-29T14:00:00Z,João Pedro Junqueira de Jesus,Brighton,3.5350167311597063,53
-Evan Ferguson2023-10-29T14:00:00Z,Evan Ferguson,Brighton,3.17785159199262,60
-Darwin Núñez Ribeiro2023-10-29T14:00:00Z,Darwin Núñez Ribeiro,Liverpool,4.181485612307909,74
-Cody Gakpo2023-10-29T14:00:00Z,Cody Gakpo,Liverpool,3.3882017255651906,72
-Julián Álvarez2023-10-29T15:30:00Z,Julián Álvarez,Man City,3.8755028894606673,71
-Erling Haaland2023-10-29T15:30:00Z,Erling Haaland,Man City,6.836102802944589,140
-Gabriel Fernando de Jesus2023-10-28T14:00:00Z,Gabriel Fernando de Jesus,Arsenal,4.5441712651730635,79
-Eddie Nketiah2023-10-28T14:00:00Z,Eddie Nketiah,Arsenal,2.895463247486515,55
-Michail Antonio2023-10-29T13:00:00Z,Michail Antonio,West Ham,3.053855169298225,58
-Yoane Wissa2023-10-28T11:30:00Z,Yoane Wissa,Brentford,3.7804750011576,59
-Nicolas Jackson2023-10-28T11:30:00Z,Nicolas Jackson,Chelsea,2.7773962952699867,69
-Rasmus Højlund2023-10-29T15:30:00Z,Rasmus Højlund,Man Utd,2.060521696261832,72
-Cameron Archer2023-10-28T14:00:00Z,Cameron Archer,Sheffield Utd,1.912652285366672,45
-Armando Broja2023-10-28T11:30:00Z,Armando Broja,Chelsea,2.528351283497217,49
-Anthony Martial2023-10-29T15:30:00Z,Anthony Martial,Man Utd,2.0806873552748857,65
-Matheus Santos Carneiro Da Cunha2023-10-28T16:30:00Z,Matheus Santos Carneiro Da Cunha,Wolves,2.989273683084515,55
-Fábio Silva2023-10-28T16:30:00Z,Fábio Silva,Wolves,1.785655582183212,53
-Sasa Kalajdzic2023-10-28T16:30:00Z,Sasa Kalajdzic,Wolves,1.655866809692127,49
-Dominic Calvert-Lewin2023-10-29T13:00:00Z,Dominic Calvert-Lewin,Everton,2.8945181174420282,58
-Taiwo Awoniyi2023-10-29T14:00:00Z,Taiwo Awoniyi,Nott'm Forest,2.141551031102164,65
-Chris Wood2023-10-29T14:00:00Z,Chris Wood,Nott'm Forest,2.5028912167348376,49
-Chiedozie Ogbene2023-10-29T14:00:00Z,Chiedozie Ogbene,Luton,2.213698730609746,49
-Carlton Morris2023-10-29T14:00:00Z,Carlton Morris,Luton,2.3769357589049824,55
-Cauley Woodrow2023-10-29T14:00:00Z,Cauley Woodrow,Luton,1.3163621945076245,44
-Elijah Adebayo2023-10-29T14:00:00Z,Elijah Adebayo,Luton,2.1527974346511245,48
-Jacob Brown2023-10-29T14:00:00Z,Jacob Brown,Luton,1.9996896550694636,49
-Neal Maupay2023-10-28T11:30:00Z,Neal Maupay,Brentford,2.4056818504945663,49
-Lyle Foster2023-10-28T14:00:00Z,Lyle Foster,Burnley,3.0835077623716827,50
-Zeki Amdouni2023-10-28T14:00:00Z,Zeki Amdouni,Burnley,2.8466894303906383,54
-Oliver McBurnie2023-10-28T14:00:00Z,Oliver McBurnie,Sheffield Utd,1.8784335916137427,54
-Rhian Brewster2023-10-28T14:00:00Z,Rhian Brewster,Sheffield Utd,1.3098834733445923,49
-Carlos Vinícius Alves Morais2023-10-29T14:00:00Z,Carlos Vinícius Alves Morais,Fulham,2.2972438730811966,48
-Odsonne Edouard2023-10-27T19:00:00Z,Odsonne Edouard,Crystal Palace,2.9951974012970948,55
-Jean-Philippe Mateta2023-10-27T19:00:00Z,Jean-Philippe Mateta,Crystal Palace,2.4401021834422307,49
-Raúl Jiménez2023-10-29T14:00:00Z,Raúl Jiménez,Fulham,1.8695151312693241,53
-Dominic Solanke2023-10-28T14:00:00Z,Dominic Solanke,Bournemouth,5.046332020252419,64
-Kieffer Moore2023-10-28T14:00:00Z,Kieffer Moore,Bournemouth,2.034354876297366,47
-Norberto Bercique Gomes Betuncal2023-10-29T13:00:00Z,Norberto Bercique Gomes Betuncal,Everton,2.1176813395549576,59
+Erling Haaland2024-11-02T15:00:00Z,Erling Haaland,Man City,5.904989812827383,154
+Julián Álvarez2024-11-02T15:00:00Z,Julián Álvarez,Man City,0.2346554706476929,70
+Romelu Lukaku Bolingoli2024-11-03T16:30:00Z,Romelu Lukaku Bolingoli,Chelsea,0.11583856972378158,63
+David Datro Fofana2024-11-03T16:30:00Z,David Datro Fofana,Chelsea,0.08377449028999875,54
+Nicolas Jackson2024-11-03T16:30:00Z,Nicolas Jackson,Chelsea,4.014294127224911,79
+Deivid Washington de Souza Eugênio2024-11-03T16:30:00Z,Deivid Washington de Souza Eugênio,Chelsea,0.04861101857370283,50
+Marc Guiu Paz2024-11-03T16:30:00Z,Marc Guiu Paz,Chelsea,0.06619092747559728,48
+Dane Scarlett2024-11-03T14:00:00Z,Dane Scarlett,Spurs,0.04045155396745186,45
+Alejo Véliz2024-11-03T14:00:00Z,Alejo Véliz,Spurs,0.06675635611581138,50
+Will Lankshear2024-11-03T14:00:00Z,Will Lankshear,Spurs,0.04349988249802503,45
+Igor Thiago Nascimento Rodrigues2024-11-04T20:00:00Z,Igor Thiago Nascimento Rodrigues,Brentford,0.1490766553429509,59
+Dominic Solanke-Mitchell2024-11-03T14:00:00Z,Dominic Solanke-Mitchell,Spurs,3.0474571995918023,77
+Ivan Toney2024-11-04T20:00:00Z,Ivan Toney,Brentford,0.21946833104672792,73
+Yoane Wissa2024-11-04T20:00:00Z,Yoane Wissa,Brentford,2.7216304520419796,59
+Richarlison de Andrade2024-11-03T14:00:00Z,Richarlison de Andrade,Spurs,1.3431078335808357,68
+Gabriel Fernando de Jesus2024-11-02T12:30:00Z,Gabriel Fernando de Jesus,Arsenal,1.7484702707963087,68
+Kai Havertz2024-11-02T12:30:00Z,Kai Havertz,Arsenal,4.155948315852628,82
+Darwin Núñez Ribeiro2024-11-02T15:00:00Z,Darwin Núñez Ribeiro,Liverpool,2.033908668036215,71
+Cody Gakpo2024-11-02T15:00:00Z,Cody Gakpo,Liverpool,2.558344973899957,71
+Jhon Durán2024-11-03T14:00:00Z,Jhon Durán,Aston Villa,1.7141487534674018,62
+João Pedro Junqueira de Jesus2024-11-02T15:00:00Z,João Pedro Junqueira de Jesus,Brighton,0.4061584032590173,54
+Deniz Undav2024-11-02T15:00:00Z,Deniz Undav,Brighton,0.08042595950391698,55
+Danny Welbeck2024-11-02T15:00:00Z,Danny Welbeck,Brighton,2.817451303022462,59
+Ollie Watkins2024-11-03T14:00:00Z,Ollie Watkins,Aston Villa,5.960358327521938,91
+Armando Broja2024-11-02T15:00:00Z,Armando Broja,Everton,0.15110118096219893,54
+Evan Ferguson2024-11-02T15:00:00Z,Evan Ferguson,Brighton,1.1543666372043548,55
+Mark O’Mahony2024-11-02T15:00:00Z,Mark O’Mahony,Brighton,0.0207804153597463,45
+Nathan Butler-Oyedeji2024-11-02T12:30:00Z,Nathan Butler-Oyedeji,Arsenal,0.054005065226476585,45
+Tom Cannon2024-11-02T15:00:00Z,Tom Cannon,Leicester,0.04659791117499702,45
+Michail Antonio2024-11-02T15:00:00Z,Michail Antonio,West Ham,2.36771427342902,54
+Niclas Füllkrug2024-11-02T15:00:00Z,Niclas Füllkrug,West Ham,0.2956900301752041,67
+Patson Daka2024-11-02T15:00:00Z,Patson Daka,Leicester,0.08888375644996567,48
+Danny Ings2024-11-02T15:00:00Z,Danny Ings,West Ham,1.0957335691722379,50
+Jamie Vardy2024-11-02T15:00:00Z,Jamie Vardy,Leicester,3.2799272185422983,57
+Saša Kalajdžić2024-11-02T17:30:00Z,Saša Kalajdžić,Wolves,0.08591678587574052,48
+Rodrigo Muniz Carvalho2024-11-04T20:00:00Z,Rodrigo Muniz Carvalho,Fulham,1.3839485441499395,57
+Carlos Vinícius Alves Morais2024-11-04T20:00:00Z,Carlos Vinícius Alves Morais,Fulham,0.10093102002108825,50
+Nathan Fraser2024-11-02T17:30:00Z,Nathan Fraser,Wolves,0.053887180904182416,45
+Odsonne Edouard2024-11-02T15:00:00Z,Odsonne Edouard,Leicester,1.0524546903210867,53
+Fábio Silva2024-11-02T17:30:00Z,Fábio Silva,Wolves,0.07764133413773365,50
+Matheus Santos Carneiro Da Cunha2024-11-02T17:30:00Z,Matheus Santos Carneiro Da Cunha,Wolves,4.040392818379012,65
+Raúl Jiménez2024-11-04T20:00:00Z,Raúl Jiménez,Fulham,3.6921237871682107,57
+Leon Chiwome2024-11-02T17:30:00Z,Leon Chiwome,Wolves,0.05534322453589797,45
+Jay Stansfield2024-11-04T20:00:00Z,Jay Stansfield,Fulham,0.09691508040123271,50
+Jørgen Strand Larsen2024-11-02T17:30:00Z,Jørgen Strand Larsen,Wolves,3.692593601435402,55
+Francisco Evanilson de Lima Barbosa2024-11-02T15:00:00Z,Francisco Evanilson de Lima Barbosa,Bournemouth,2.309203335628073,59
+Enes Ünal2024-11-02T15:00:00Z,Enes Ünal,Bournemouth,1.3293905387116096,54
+Daniel Jebbison2024-11-02T15:00:00Z,Daniel Jebbison,Bournemouth,0.13071285924070816,45
+Emmanuel Dennis2024-11-02T15:00:00Z,Emmanuel Dennis,Nott'm Forest,0.06875198692701492,49
+Hwang Ui-jo2024-11-02T15:00:00Z,Hwang Ui-jo,Nott'm Forest,0.028508808612193664,45
+Taiwo Awoniyi2024-11-02T15:00:00Z,Taiwo Awoniyi,Nott'm Forest,1.0468770398270353,56
+Chris Wood2024-11-02T15:00:00Z,Chris Wood,Nott'm Forest,5.085697118279904,64
+Norberto Bercique Gomes Betuncal2024-11-02T15:00:00Z,Norberto Bercique Gomes Betuncal,Everton,1.4142365640234131,50
+Youssef Ramalho Chermiti2024-11-02T15:00:00Z,Youssef Ramalho Chermiti,Everton,0.08903586931838295,49
+Dominic Calvert-Lewin2024-11-02T15:00:00Z,Dominic Calvert-Lewin,Everton,3.2326329511248586,60
+Neal Maupay2024-11-02T15:00:00Z,Neal Maupay,Everton,0.11195066615084362,49
+Iliman Ndiaye2024-11-02T15:00:00Z,Iliman Ndiaye,Everton,3.2413532579288877,54
+Liam Delap2024-11-02T15:00:00Z,Liam Delap,Ipswich,3.1503058371436348,57
+Callum Wilson2024-11-02T12:30:00Z,Callum Wilson,Newcastle,0.16089107577064127,69
+William Osula2024-11-02T12:30:00Z,William Osula,Newcastle,0.39534036753065815,50
+Alexander Isak2024-11-02T12:30:00Z,Alexander Isak,Newcastle,2.4103885224860333,83
+Ali Al-Hamadi2024-11-02T15:00:00Z,Ali Al-Hamadi,Ipswich,0.14499405494431908,49
+Eddie Nketiah2024-11-02T17:30:00Z,Eddie Nketiah,Crystal Palace,2.607138318467916,59
+George Hirst2024-11-02T15:00:00Z,George Hirst,Ipswich,3.273398022268804,54
+Freddie Ladapo2024-11-02T15:00:00Z,Freddie Ladapo,Ipswich,0.04435439102843896,45
+Joshua Zirkzee2024-11-03T16:30:00Z,Joshua Zirkzee,Man Utd,1.6445706086915675,67
+Rasmus Højlund2024-11-03T16:30:00Z,Rasmus Højlund,Man Utd,2.1565795107862638,69
+Ethan Wheatley2024-11-03T16:30:00Z,Ethan Wheatley,Man Utd,0.02912244034348775,45
+Adam Armstrong2024-11-02T15:00:00Z,Adam Armstrong,Southampton,1.073409253833928,52
+Jean-Philippe Mateta2024-11-02T17:30:00Z,Jean-Philippe Mateta,Crystal Palace,2.8906302970328293,73
+Cameron Archer2024-11-02T15:00:00Z,Cameron Archer,Southampton,2.5887248022667877,50
+Ross Stewart2024-11-02T15:00:00Z,Ross Stewart,Southampton,0.4727492834889474,46
+Paul Onuachu2024-11-02T15:00:00Z,Paul Onuachu,Southampton,1.0722471930508786,49
+Sékou Mara2024-11-02T15:00:00Z,Sékou Mara,Southampton,0.06981257445155986,50

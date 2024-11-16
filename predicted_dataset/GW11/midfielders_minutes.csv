@@ -1,315 +1,308 @@
-,name,team,minutes
-1,Omari Kellyman,Aston Villa,0
-3,Morgan Sanson,Aston Villa,0
-4,Sandro Tonali,Newcastle,1
-5,Jaden Philogene-Bidace,Aston Villa,0
-6,Sean Longstaff,Newcastle,1
-7,Moussa Diaby,Aston Villa,1
-9,Joelinton Cássio Apolinário de Lira,Newcastle,1
-10,Joe Willock,Newcastle,1
-11,Emiliano Buendía Stati,Aston Villa,0
-12,Jacob Ramsey,Aston Villa,0
-14,Jacob Murphy,Newcastle,1
-15,Miguel Almirón Rejala,Newcastle,1
-16,Boubacar Kamara,Aston Villa,1
-18,Anthony Gordon,Newcastle,1
-19,Isaac Hayden,Newcastle,0
-20,Ryan Fraser,Newcastle,0
-21,Elliot Anderson,Newcastle,1
-24,Bertrand Traoré,Aston Villa,0
-28,Douglas Luiz Soares de Paulo,Aston Villa,1
-29,Philippe Coutinho Correia,Aston Villa,0
-31,Jeff Hendrick,Newcastle,0
-34,John McGinn,Aston Villa,1
-38,Garang Kuol,Newcastle,0
-39,Youri Tielemans,Aston Villa,1
-44,Leander Dendoncker,Aston Villa,0
-45,Leon Bailey,Aston Villa,1
-52,Tim Iroegbunam,Aston Villa,0
-59,Matt Ritchie,Newcastle,0
-60,Harvey Barnes,Newcastle,0
-62,Bruno Guimarães Rodriguez Moura,Newcastle,1
-63,Allan Saint-Maximin,Newcastle,0
-66,Ben Doak,Liverpool,0
-68,Bobby Clark,Liverpool,0
-69,James McConnell,Liverpool,0
-73,Harvey Elliott,Liverpool,1
-75,Alexis Mac Allister,Liverpool,1
-76,Thiago Alcántara do Nascimento,Liverpool,0
-79,Luis Díaz,Liverpool,1
-81,Fabio Henrique Tavares,Liverpool,0
-83,Lewis Miley,Newcastle,0
-87,Curtis Jones,Liverpool,0
-90,Jordan Henderson,Liverpool,0
-91,Stefan Bajcetic,Liverpool,0
-92,Diogo Teixeira da Silva,Liverpool,1
-94,Dominik Szoboszlai,Liverpool,1
-97,Mohamed Salah,Liverpool,1
-100,Gabriel Martinelli Silva,Arsenal,1
-102,Kaoru Mitoma,Brighton,1
-104,Kacper Kozłowski,Brighton,0
-105,Jeremy Sarmiento Morante,Brighton,0
-106,Granit Xhaka,Arsenal,0
-108,Facundo Buonanotte,Brighton,1
-111,Kai Havertz,Arsenal,1
-112,Declan Rice,Arsenal,1
-113,James Milner,Brighton,1
-117,Julio Enciso,Brighton,0
-120,Jakub Moder,Brighton,0
-124,Jorge Luiz Frello Filho,Arsenal,1
-126,Emile Smith Rowe,Arsenal,1
-129,Thomas Partey,Arsenal,1
-130,Bukayo Saka,Arsenal,1
-131,Mohamed Elneny,Arsenal,0
-133,Billy Gilmour,Brighton,1
-135,Reiss Nelson,Arsenal,0
-136,Simon Adingra,Brighton,1
-138,Nicolas Pépé,Arsenal,0
-142,Steven Alzate,Brighton,0
-143,Solly March,Brighton,1
-144,Pascal Groß,Brighton,1
-152,Yasin Ayari,Brighton,0
-154,Leandro Trossard,Arsenal,1
-157,Mahmoud Dahoud,Brighton,1
-158,Fábio Ferreira Vieira,Arsenal,1
-159,Marcus Oliveira Alencar,Arsenal,0
-160,Martin Ødegaard,Arsenal,1
-161,Adam Lallana,Brighton,1
-167,Shea Charles,Man City,0
-168,Kevin De Bruyne,Man City,0
-169,Son Heung-min,Spurs,1
-172,Tanguy Ndombélé Alvaro,Spurs,0
-176,Giovani Lo Celso,Spurs,0
-180,Pape Matar Sarr,Spurs,1
-187,Bernardo Veiga de Carvalho e Silva,Man City,1
-188,Dejan Kulusevski,Spurs,1
-190,Oliver Skipp,Spurs,1
-191,Oscar Bobb,Man City,0
-192,Manor Solomon,Spurs,0
-196,Phil Foden,Man City,1
-197,James Maddison,Spurs,1
-198,Richarlison de Andrade,Spurs,1
-199,Riyad Mahrez,Man City,0
-203,Yves Bissouma,Spurs,1
-205,Kalvin Phillips,Man City,0
-206,Mateo Kovačić,Man City,1
-208,Jack Grealish,Man City,1
-209,Máximo Perrone,Man City,0
-211,Pierre-Emile Højbjerg,Spurs,1
-212,Rodrigo Hernandez,Man City,1
-213,Rodrigo Bentancur,Spurs,0
-222,Bryan Gil Salvatierra,Spurs,0
-223,Jack Hinshelwood,Brighton,0
-225,Tom Davies,Sheffield Utd,0
-226,Gustavo Hamer,Sheffield Utd,1
-227,Matheus Luiz Nunes,Man City,1
-228,Brennan Johnson,Spurs,1
-229,Tommy Doyle,Wolves,1
-230,Ryan Trevitt,Brentford,0
-231,Shandon Baptiste,Brentford,0
-232,Mikkel Damsgaard,Brentford,0
-234,Sergi Canós Tenés,Brentford,0
-235,Josh Dasilva,Brentford,0
-236,Moisés Caicedo Corozo,Chelsea,1
-237,Bryan Mbeumo,Brentford,1
-243,Mathias Jensen,Brentford,1
-247,Mads Bidstrup,Brentford,0
-251,Christian Nørgaard,Brentford,1
-252,Frank Onyeka,Brentford,1
-253,Keane Lewis-Potter,Brentford,0
-254,Yegor Yarmolyuk,Brentford,1
-257,Kevin Schade,Brentford,0
-261,Vitaly Janelt,Brentford,1
-262,Edson Álvarez Velázquez,West Ham,1
-266,Maxwel Cornet,West Ham,0
-267,Nikola Vlašić,West Ham,0
-268,Conor Coventry,West Ham,0
-269,Flynn Downes,West Ham,0
-272,Pablo Fornals Malla,West Ham,1
-281,Tomáš Souček,West Ham,1
-282,Saïd Benrahma,West Ham,1
-283,Jarrod Bowen,West Ham,1
-286,Lucas Tolentino Coelho de Lima,West Ham,1
-287,Albert Sambi Lokonga,Luton,0
-288,Michael Olakigbe,Brentford,0
-289,Cole Palmer,Chelsea,1
-290,James McAtee,Sheffield Utd,1
-291,Joe Hodge,Wolves,0
-293,Bruno Cavaco Jordão,Wolves,0
-294,João Victor Gomes da Silva,Wolves,1
-301,Mario Lemina,Wolves,1
-304,Luke Cundle,Wolves,0
-306,Daniel Castelo Podence,Wolves,0
-310,Boubacar Traoré,Wolves,1
-311,Pedro Lomba Neto,Wolves,1
-312,Francisco Jorge Tomás Oliveira,Wolves,0
-314,Gonçalo Manuel Ganchinho Guedes,Wolves,0
-319,Hwang Hee-chan,Wolves,1
-326,Pablo Sarabia,Wolves,1
-329,Lewis Dobbin,Everton,0
-331,Tyler Onyango,Everton,0
-338,Noni Madueke,Chelsea,1
-339,Abdoulaye Doucouré,Everton,1
-343,Christian Pulisic,Chelsea,0
-344,Lesley Ugochukwu,Chelsea,1
-350,Amadou Onana,Everton,1
-351,Carney Chukwuemeka,Chelsea,0
-356,Arnaut Danjuma Groeneveld,Everton,1
-357,Raheem Sterling,Chelsea,1
-365,Mykhailo Mudryk,Chelsea,1
-369,André Tavares Gomes,Everton,0
-371,Omari Forson,Man Utd,0
-372,Ângelo Gabriel Borges Damaceno,Chelsea,0
-375,Enzo Fernández,Chelsea,1
-376,Jean-Philippe Gbamin,Everton,0
-377,Idrissa Gueye,Everton,0
-378,Ian Maatsen,Chelsea,1
-379,Dele Alli,Everton,0
-380,Demarai Gray,Everton,0
-382,James Garner,Everton,1
-386,Dwight McNeil,Everton,1
-387,Conor Gallagher,Chelsea,1
-390,Hakim Ziyech,Chelsea,0
-392,Scott McTominay,Man Utd,1
-393,Carlos Henrique Casimiro,Man Utd,1
-394,Amad Diallo,Man Utd,0
-396,Marcus Rashford,Man Utd,1
-397,Frederico Rodrigues de Paula Santos,Man Utd,0
-399,Mason Mount,Man Utd,1
-400,Antony Matheus dos Santos,Man Utd,1
-404,Jadon Sancho,Man Utd,0
-405,Bruno Borges Fernandes,Man Utd,1
-408,Donny van de Beek,Man Utd,0
-411,Alejandro Garnacho,Man Utd,1
-413,Hannibal Mejbri,Man Utd,0
-415,Facundo Pellistri Rebollo,Man Utd,0
-417,Kobbie Mainoo,Man Utd,0
-420,Christian Eriksen,Man Utd,1
-424,Jacob Bruun Larsen,Burnley,1
-430,Glen Rea,Luton,0
-431,Pelly Ruddock Mpanzu,Luton,1
-434,Remo Freuler,Nott'm Forest,0
-438,Elliot Thorpe,Luton,0
-441,Orel Mangala,Nott'm Forest,1
-448,Fred Onyedinma,Luton,0
-453,Jack Cork,Burnley,0
-456,Harry Arter,Nott'm Forest,0
-457,Andrey Nascimento dos Santos,Nott'm Forest,0
-458,Alex Mighten,Nott'm Forest,0
-459,Anass Zaroury,Burnley,1
-463,Enock Agyei,Burnley,0
-465,Tahith Chong,Luton,1
-469,Allan Campbell,Luton,0
-473,Scott Twine,Burnley,0
-476,Sander Berge,Burnley,1
-477,Samuel Bastien,Burnley,0
-479,Anthony Elanga,Nott'm Forest,1
-480,Ryan Yates,Nott'm Forest,1
-482,Ross Barkley,Luton,1
-483,Gustavo Henrique Furtado Scarpa,Nott'm Forest,0
-487,Nathan Redmond,Burnley,0
-489,Jonjo Shelvey,Nott'm Forest,0
-490,Josh Bowler,Nott'm Forest,0
-491,Luca Koleosho,Burnley,1
-492,Josh Brownhill,Burnley,1
-493,Carlos Mendes Gomes,Luton,0
-495,Luke Freeman,Luton,0
-496,Danilo dos Santos de Oliveira,Nott'm Forest,0
-497,Manuel Benson Hedilazio,Burnley,0
-499,Luke Berry,Luton,0
-507,Louie Watson,Luton,0
-508,Lewis O'Brien,Nott'm Forest,0
-509,Darko Churlinov,Burnley,0
-513,Cheikhou Kouyaté,Nott'm Forest,1
-514,Jordan Clark,Luton,0
-516,Marvelous Nakamba,Luton,1
-524,Josh Cullen,Burnley,1
-525,Dion Pereira,Luton,0
-526,Braian Ojeda Rodríguez,Nott'm Forest,0
-527,Morgan Gibbs-White,Nott'm Forest,1
-531,Jóhann Berg Gudmundsson,Burnley,1
-533,Dara Costelloe,Burnley,0
-534,Brandon Aguilera Zamora,Nott'm Forest,0
-538,Marcus Tavernier,Bournemouth,1
-542,Ryan Christie,Bournemouth,1
-543,David Brooks,Bournemouth,1
-551,Dango Ouattara,Bournemouth,1
-552,Gavin Kilkenny,Bournemouth,0
-553,Ben Pearson,Bournemouth,0
-555,Siriki Dembélé,Bournemouth,0
-559,Jamal Lowe,Bournemouth,0
-560,Justin Kluivert,Bournemouth,0
-561,Lewis Cook,Bournemouth,1
-562,Philip Billing,Bournemouth,1
-563,Jaidon Anthony,Bournemouth,0
-564,Emiliano Marcondes,Bournemouth,0
-566,Hamed Traorè,Bournemouth,0
-568,Joe Rothwell,Bournemouth,1
-572,Harry Wilson,Fulham,1
-573,Alex Scott,Bournemouth,1
-575,Willian Borges da Silva,Fulham,1
-576,Will Hughes,Crystal Palace,1
-578,Vini de Souza Costa,Sheffield Utd,1
-580,Cheick Doucouré,Crystal Palace,1
-582,Tyrese Francois,Fulham,0
-583,João Palhinha Gonçalves,Fulham,1
-585,Harrison Reed,Fulham,1
-588,Tom Cairney,Fulham,1
-589,Alex Iwobi,Fulham,1
-593,Malcolm Ebiowei,Crystal Palace,0
-598,Andre Brooks,Sheffield Utd,0
-600,Jairo Riedewald,Crystal Palace,1
-603,Michael Olise,Crystal Palace,0
-604,Eberechi Eze,Crystal Palace,1
-607,Jeffrey Schlupp,Crystal Palace,1
-610,Jefferson Lerma Solís,Crystal Palace,1
-612,Naouirou Ahamada,Crystal Palace,1
-618,Saša Lukić,Fulham,1
-619,Andreas Hoelgebaum Pereira,Fulham,1
-625,Jordan Ayew,Crystal Palace,1
-626,Bobby De Cordova-Reid,Fulham,1
-627,Ivan Neves Abreu Cavaleiro,Fulham,0
-628,Anthony Knockaert,Fulham,0
-629,Matheus França de Oliveira,Crystal Palace,1
-630,Jesurun Rak-Sakyi,Crystal Palace,1
-631,Matthew Dibley-Dias,Fulham,0
-639,Ben Osborn,Sheffield Utd,1
-644,John Fleck,Sheffield Utd,0
-647,Ismaila Coulibaly,Sheffield Utd,0
-648,Anis Slimane,Sheffield Utd,0
-657,Oliver Norwood,Sheffield Utd,1
-658,Callum Hudson-Odoi,Nott'm Forest,1
-661,Aaron Ramsey,Burnley,0
-662,Adama Traoré,Fulham,0
-664,Alex Matos,Chelsea,0
-668,Andros Townsend,Luton,0
-669,Anssumane Fati Vieira,Brighton,1
-674,Carlos Baleba,Brighton,0
-676,Daniel Gore,Man Utd,0
-677,David Ozoh,Crystal Palace,0
-680,Diego Manuel Jadon da Silva Moreira,Chelsea,0
-684,Enso González,Wolves,0
-685,Ethan Brierley,Brentford,0
-688,Han-Noah Massengo,Burnley,0
-690,Ibrahim Sangaré,Nott'm Forest,0
-691,Jack Harrison,Everton,1
-692,Jadan Raymond,Crystal Palace,0
-693,James Ward-Prowse,West Ham,1
-695,Jayden Luker,Luton,0
-696,Jean-Ricner Bellegarde,Wolves,0
-702,Jérémy Doku,Man City,1
-704,Luis Sinisterra,Bournemouth,1
-706,Luke Harris,Fulham,0
-708,Mackenzie Hunt,Everton,0
-709,Mike Trésor,Burnley,1
-710,Mohammed Kudus,West Ham,1
-713,Nicolás Domínguez,Nott'm Forest,0
-714,Nicolò Zaniolo,Aston Villa,0
-719,Roméo Lavia,Chelsea,0
-721,Ryan Gravenberch,Liverpool,0
-722,Ryan Oné,Sheffield Utd,0
-723,Saman Ghoddos,Brentford,0
-725,Sofyan Amrabat,Man Utd,0
-729,Tyler Adams,Bournemouth,1
-730,Wataru Endo,Liverpool,0
-731,Wilson Odobert,Burnley,0
+index,name,team,minutes
+Tony Yogane2024-11-09T15:00:00Z,Tony Yogane,Brentford,0
+João Félix Sequeira2024-11-10T16:30:00Z,João Félix Sequeira,Chelsea,1
+Gustavo Nunes Fernandes Gomes2024-11-09T15:00:00Z,Gustavo Nunes Fernandes Gomes,Brentford,0
+Ilkay Gündogan2024-11-09T17:30:00Z,Ilkay Gündogan,Man City,1
+Giovani Lo Celso2024-11-10T14:00:00Z,Giovani Lo Celso,Spurs,0
+Rodrigo Bentancur2024-11-10T14:00:00Z,Rodrigo Bentancur,Spurs,1
+Mikey Moore2024-11-10T14:00:00Z,Mikey Moore,Spurs,0
+Pape Matar Sarr2024-11-10T14:00:00Z,Pape Matar Sarr,Spurs,1
+Lucas Bergvall2024-11-10T14:00:00Z,Lucas Bergvall,Spurs,0
+Archie Gray2024-11-10T14:00:00Z,Archie Gray,Spurs,0
+Brennan Johnson2024-11-10T14:00:00Z,Brennan Johnson,Spurs,1
+Bryan Gil Salvatierra2024-11-10T14:00:00Z,Bryan Gil Salvatierra,Spurs,0
+Timo Werner2024-11-10T14:00:00Z,Timo Werner,Spurs,1
+Dejan Kulusevski2024-11-10T14:00:00Z,Dejan Kulusevski,Spurs,1
+Son Heung-min2024-11-10T14:00:00Z,Son Heung-min,Spurs,1
+Manor Solomon2024-11-10T14:00:00Z,Manor Solomon,Spurs,0
+James Maddison2024-11-10T14:00:00Z,James Maddison,Spurs,1
+Alfie Devine2024-11-10T14:00:00Z,Alfie Devine,Spurs,0
+Wilson Odobert2024-11-10T14:00:00Z,Wilson Odobert,Spurs,0
+Pierre-Emile Højbjerg2024-11-10T14:00:00Z,Pierre-Emile Højbjerg,Spurs,0
+Yves Bissouma2024-11-10T14:00:00Z,Yves Bissouma,Spurs,1
+Nico O'Reilly2024-11-09T17:30:00Z,Nico O'Reilly,Man City,0
+Rodrigo 'Rodri' Hernandez2024-11-09T17:30:00Z,Rodrigo 'Rodri' Hernandez,Man City,0
+Mateo Kovačić2024-11-09T17:30:00Z,Mateo Kovačić,Man City,1
+Phil Foden2024-11-09T17:30:00Z,Phil Foden,Man City,1
+Jérémy Doku2024-11-09T17:30:00Z,Jérémy Doku,Man City,1
+Oscar Bobb2024-11-09T17:30:00Z,Oscar Bobb,Man City,0
+Kevin De Bruyne2024-11-09T17:30:00Z,Kevin De Bruyne,Man City,0
+Jack Grealish2024-11-09T17:30:00Z,Jack Grealish,Man City,1
+Sávio 'Savinho' Moreira de Oliveira2024-11-09T17:30:00Z,Sávio 'Savinho' Moreira de Oliveira,Man City,1
+James McAtee2024-11-09T17:30:00Z,James McAtee,Man City,0
+Matheus Luiz Nunes2024-11-09T17:30:00Z,Matheus Luiz Nunes,Man City,1
+Bernardo Veiga de Carvalho e Silva2024-11-09T17:30:00Z,Bernardo Veiga de Carvalho e Silva,Man City,1
+Enzo Fernández2024-11-10T16:30:00Z,Enzo Fernández,Chelsea,1
+Omari Kellyman2024-11-10T16:30:00Z,Omari Kellyman,Chelsea,0
+Moisés Caicedo Corozo2024-11-10T16:30:00Z,Moisés Caicedo Corozo,Chelsea,1
+Kadan Young2024-11-09T20:00:00Z,Kadan Young,Aston Villa,0
+Ângelo Gabriel Borges Damaceno2024-11-10T16:30:00Z,Ângelo Gabriel Borges Damaceno,Chelsea,0
+Mykhailo Mudryk2024-11-10T16:30:00Z,Mykhailo Mudryk,Chelsea,1
+Pedro Lomba Neto2024-11-10T16:30:00Z,Pedro Lomba Neto,Chelsea,1
+Conor Gallagher2024-11-10T16:30:00Z,Conor Gallagher,Chelsea,0
+Carney Chukwuemeka2024-11-10T16:30:00Z,Carney Chukwuemeka,Chelsea,0
+Cole Palmer2024-11-10T16:30:00Z,Cole Palmer,Chelsea,1
+Christopher Nkunku2024-11-10T16:30:00Z,Christopher Nkunku,Chelsea,1
+Kiernan Dewsbury-Hall2024-11-10T16:30:00Z,Kiernan Dewsbury-Hall,Chelsea,0
+Cesare Casadei2024-11-10T16:30:00Z,Cesare Casadei,Chelsea,0
+Roméo Lavia2024-11-10T16:30:00Z,Roméo Lavia,Chelsea,1
+Noni Madueke2024-11-10T16:30:00Z,Noni Madueke,Chelsea,1
+Renato Palma Veiga2024-11-10T16:30:00Z,Renato Palma Veiga,Chelsea,0
+Andrey Nascimento dos Santos2024-11-10T16:30:00Z,Andrey Nascimento dos Santos,Chelsea,0
+Ismeal Kabia2024-11-10T16:30:00Z,Ismeal Kabia,Arsenal,0
+Ryan Gravenberch2024-11-09T20:00:00Z,Ryan Gravenberch,Liverpool,1
+Fábio Freitas Gouveia Carvalho2024-11-09T15:00:00Z,Fábio Freitas Gouveia Carvalho,Brentford,1
+Endo Wataru2024-11-09T20:00:00Z,Endo Wataru,Liverpool,0
+Frank Onyeka2024-11-09T15:00:00Z,Frank Onyeka,Brentford,0
+Josh Dasilva2024-11-09T15:00:00Z,Josh Dasilva,Brentford,0
+Ethan Brierley2024-11-09T15:00:00Z,Ethan Brierley,Brentford,0
+Diogo Teixeira da Silva2024-11-09T20:00:00Z,Diogo Teixeira da Silva,Liverpool,1
+Harvey Elliott2024-11-09T20:00:00Z,Harvey Elliott,Liverpool,0
+James McConnell2024-11-09T20:00:00Z,James McConnell,Liverpool,0
+Dominik Szoboszlai2024-11-09T20:00:00Z,Dominik Szoboszlai,Liverpool,1
+Myles Peart-Harris2024-11-09T15:00:00Z,Myles Peart-Harris,Brentford,0
+Ryan Trevitt2024-11-09T15:00:00Z,Ryan Trevitt,Brentford,0
+Raheem Sterling2024-11-10T16:30:00Z,Raheem Sterling,Arsenal,1
+Stefan Bajčetić Maquieira2024-11-09T20:00:00Z,Stefan Bajčetić Maquieira,Liverpool,0
+Yehor Yarmoliuk2024-11-09T15:00:00Z,Yehor Yarmoliuk,Brentford,1
+Mathias Jensen2024-11-09T15:00:00Z,Mathias Jensen,Brentford,1
+Christian Nørgaard2024-11-09T15:00:00Z,Christian Nørgaard,Brentford,1
+Tyler Morton2024-11-09T20:00:00Z,Tyler Morton,Liverpool,0
+Mikkel Damsgaard2024-11-09T15:00:00Z,Mikkel Damsgaard,Brentford,1
+Alexis Mac Allister2024-11-09T20:00:00Z,Alexis Mac Allister,Liverpool,1
+Bryan Mbeumo2024-11-09T15:00:00Z,Bryan Mbeumo,Brentford,1
+Vitaly Janelt2024-11-09T15:00:00Z,Vitaly Janelt,Brentford,1
+Luis Díaz2024-11-09T20:00:00Z,Luis Díaz,Liverpool,1
+Mohamed Salah2024-11-09T20:00:00Z,Mohamed Salah,Liverpool,1
+Curtis Jones2024-11-09T20:00:00Z,Curtis Jones,Liverpool,1
+Kevin Schade2024-11-09T15:00:00Z,Kevin Schade,Brentford,1
+Yunus Emre Konak2024-11-09T15:00:00Z,Yunus Emre Konak,Brentford,0
+Ben Doak2024-11-09T20:00:00Z,Ben Doak,Liverpool,0
+Bobby Clark2024-11-09T20:00:00Z,Bobby Clark,Liverpool,0
+Keane Lewis-Potter2024-11-09T15:00:00Z,Keane Lewis-Potter,Brentford,1
+Federico Chiesa2024-11-09T20:00:00Z,Federico Chiesa,Liverpool,0
+Salah-Eddine Oulad M'hand2024-11-10T16:30:00Z,Salah-Eddine Oulad M'hand,Arsenal,0
+Mikel Merino2024-11-10T16:30:00Z,Mikel Merino,Arsenal,1
+Jeremy Sarmiento Morante2024-11-09T17:30:00Z,Jeremy Sarmiento Morante,Brighton,0
+Ibrahim Osman2024-11-09T17:30:00Z,Ibrahim Osman,Brighton,0
+Jakub Moder2024-11-09T17:30:00Z,Jakub Moder,Brighton,0
+Youri Tielemans2024-11-09T20:00:00Z,Youri Tielemans,Aston Villa,1
+Jaden Philogene2024-11-09T20:00:00Z,Jaden Philogene,Aston Villa,0
+Jacob Ramsey2024-11-09T20:00:00Z,Jacob Ramsey,Aston Villa,1
+James Milner2024-11-09T17:30:00Z,James Milner,Brighton,0
+Jack Hinshelwood2024-11-09T17:30:00Z,Jack Hinshelwood,Brighton,1
+Adrian Mazilu2024-11-09T17:30:00Z,Adrian Mazilu,Brighton,0
+Yasin Ayari2024-11-09T17:30:00Z,Yasin Ayari,Brighton,1
+Yankuba Minteh2024-11-09T17:30:00Z,Yankuba Minteh,Brighton,0
+Amadou Onana2024-11-09T20:00:00Z,Amadou Onana,Aston Villa,1
+Benicio Baker-Boaitey2024-11-09T17:30:00Z,Benicio Baker-Boaitey,Brighton,0
+Mats Wieffer2024-11-09T17:30:00Z,Mats Wieffer,Brighton,1
+Andrew Moran2024-11-09T17:30:00Z,Andrew Moran,Brighton,0
+Mahmoud Dahoud2024-11-09T17:30:00Z,Mahmoud Dahoud,Brighton,0
+Amario Cozier-Duberry2024-11-09T17:30:00Z,Amario Cozier-Duberry,Brighton,0
+Gabriel Martinelli Silva2024-11-10T16:30:00Z,Gabriel Martinelli Silva,Arsenal,1
+Billy Gilmour2024-11-09T17:30:00Z,Billy Gilmour,Brighton,0
+Julio Enciso2024-11-09T17:30:00Z,Julio Enciso,Brighton,0
+Emiliano Buendía Stati2024-11-09T20:00:00Z,Emiliano Buendía Stati,Aston Villa,0
+Morgan Rogers2024-11-09T20:00:00Z,Morgan Rogers,Aston Villa,1
+Samuel Iling-Junior2024-11-09T20:00:00Z,Samuel Iling-Junior,Aston Villa,0
+Thomas Partey2024-11-10T16:30:00Z,Thomas Partey,Arsenal,1
+Moussa Diaby2024-11-09T20:00:00Z,Moussa Diaby,Aston Villa,0
+Kacper Kozłowski2024-11-09T17:30:00Z,Kacper Kozłowski,Brighton,0
+Declan Rice2024-11-10T16:30:00Z,Declan Rice,Arsenal,1
+Pascal Groß2024-11-09T17:30:00Z,Pascal Groß,Brighton,0
+Solly March2024-11-09T17:30:00Z,Solly March,Brighton,0
+Myles Lewis-Skelly2024-11-10T16:30:00Z,Myles Lewis-Skelly,Arsenal,0
+Enzo Barrenechea2024-11-09T20:00:00Z,Enzo Barrenechea,Aston Villa,0
+Carlos Baleba2024-11-09T17:30:00Z,Carlos Baleba,Brighton,1
+Leander Dendoncker2024-11-09T20:00:00Z,Leander Dendoncker,Aston Villa,0
+John McGinn2024-11-09T20:00:00Z,John McGinn,Aston Villa,1
+Boubacar Kamara2024-11-09T20:00:00Z,Boubacar Kamara,Aston Villa,1
+Jorge Luiz Frello Filho2024-11-10T16:30:00Z,Jorge Luiz Frello Filho,Arsenal,0
+Simon Adingra2024-11-09T17:30:00Z,Simon Adingra,Brighton,1
+Lewis Dobbin2024-11-09T20:00:00Z,Lewis Dobbin,Aston Villa,0
+Brajan Gruda2024-11-09T17:30:00Z,Brajan Gruda,Brighton,1
+Fábio Ferreira Vieira2024-11-10T16:30:00Z,Fábio Ferreira Vieira,Arsenal,0
+Bukayo Saka2024-11-10T16:30:00Z,Bukayo Saka,Arsenal,1
+Leon Bailey2024-11-09T20:00:00Z,Leon Bailey,Aston Villa,1
+Mitoma Kaoru2024-11-09T17:30:00Z,Mitoma Kaoru,Brighton,1
+Ross Barkley2024-11-09T20:00:00Z,Ross Barkley,Aston Villa,1
+Leandro Trossard2024-11-10T16:30:00Z,Leandro Trossard,Arsenal,1
+Cameron Peupion2024-11-09T17:30:00Z,Cameron Peupion,Brighton,0
+Ethan Nwaneri2024-11-10T16:30:00Z,Ethan Nwaneri,Arsenal,1
+Martin Ødegaard2024-11-10T16:30:00Z,Martin Ødegaard,Arsenal,0
+Georginio Rutter2024-11-09T17:30:00Z,Georginio Rutter,Brighton,1
+Reiss Nelson2024-11-09T15:00:00Z,Reiss Nelson,Fulham,1
+Matt O'Riley2024-11-09T17:30:00Z,Matt O'Riley,Brighton,0
+Bilal El Khannouss2024-11-10T14:00:00Z,Bilal El Khannouss,Leicester,1
+Jadon Sancho2024-11-10T16:30:00Z,Jadon Sancho,Chelsea,0
+Jack Fletcher2024-11-10T14:00:00Z,Jack Fletcher,Man Utd,0
+James Ward-Prowse2024-11-10T14:00:00Z,James Ward-Prowse,Nott'm Forest,0
+Carlos Roberto Forbs Borges2024-11-09T15:00:00Z,Carlos Roberto Forbs Borges,Wolves,1
+Sander Berge2024-11-09T15:00:00Z,Sander Berge,Fulham,1
+Carlos Soler2024-11-09T15:00:00Z,Carlos Soler,West Ham,1
+André Trindade da Costa Neto2024-11-09T15:00:00Z,André Trindade da Costa Neto,Wolves,1
+Tommy Doyle2024-11-09T15:00:00Z,Tommy Doyle,Wolves,1
+Tom Cairney2024-11-09T15:00:00Z,Tom Cairney,Fulham,1
+Morgan Gibbs-White2024-11-10T14:00:00Z,Morgan Gibbs-White,Nott'm Forest,1
+Daniel Castelo Podence2024-11-09T15:00:00Z,Daniel Castelo Podence,Wolves,0
+Kasey McAteer2024-11-10T14:00:00Z,Kasey McAteer,Leicester,0
+Stephy Mavididi2024-11-10T14:00:00Z,Stephy Mavididi,Leicester,1
+Tawanda Chirewa2024-11-09T15:00:00Z,Tawanda Chirewa,Wolves,0
+Callum Hudson-Odoi2024-11-10T14:00:00Z,Callum Hudson-Odoi,Nott'm Forest,1
+Boubakary Soumaré2024-11-10T14:00:00Z,Boubakary Soumaré,Leicester,1
+Abdul Fatawu2024-11-10T14:00:00Z,Abdul Fatawu,Leicester,1
+Mario Lemina2024-11-09T15:00:00Z,Mario Lemina,Wolves,1
+Adama Traoré2024-11-09T15:00:00Z,Adama Traoré,Fulham,1
+Alex Iwobi2024-11-09T15:00:00Z,Alex Iwobi,Fulham,1
+Alex Mighten2024-11-10T14:00:00Z,Alex Mighten,Nott'm Forest,0
+Andreas Hoelgebaum Pereira2024-11-09T15:00:00Z,Andreas Hoelgebaum Pereira,Fulham,1
+Will Alves2024-11-10T14:00:00Z,Will Alves,Leicester,0
+Wilfred Ndidi2024-11-10T14:00:00Z,Wilfred Ndidi,Leicester,1
+Anthony Elanga2024-11-10T14:00:00Z,Anthony Elanga,Nott'm Forest,1
+Wanya Marçal-Madivádua2024-11-10T14:00:00Z,Wanya Marçal-Madivádua,Leicester,0
+Luke Harris2024-11-09T15:00:00Z,Luke Harris,Fulham,0
+Luke Cundle2024-11-09T15:00:00Z,Luke Cundle,Wolves,0
+Michael Golding2024-11-10T14:00:00Z,Michael Golding,Leicester,0
+Pablo Sarabia2024-11-09T15:00:00Z,Pablo Sarabia,Wolves,1
+Lewis O'Brien2024-11-10T14:00:00Z,Lewis O'Brien,Nott'm Forest,0
+Bobby De Cordova-Reid2024-11-10T14:00:00Z,Bobby De Cordova-Reid,Leicester,1
+Boubacar Traoré2024-11-09T15:00:00Z,Boubacar Traoré,Wolves,0
+Danilo dos Santos de Oliveira2024-11-10T14:00:00Z,Danilo dos Santos de Oliveira,Nott'm Forest,0
+Hamza Choudhury2024-11-10T14:00:00Z,Hamza Choudhury,Leicester,0
+Nicolás Domínguez2024-11-10T14:00:00Z,Nicolás Domínguez,Nott'm Forest,1
+Harrison Reed2024-11-09T15:00:00Z,Harrison Reed,Fulham,0
+Joe Hodge2024-11-09T15:00:00Z,Joe Hodge,Wolves,0
+Harry Wilson2024-11-09T15:00:00Z,Harry Wilson,Fulham,1
+Harry Winks2024-11-10T14:00:00Z,Harry Winks,Leicester,1
+Oliver Skipp2024-11-10T14:00:00Z,Oliver Skipp,Leicester,1
+Rodrigo Martins Gomes2024-11-09T15:00:00Z,Rodrigo Martins Gomes,Wolves,0
+Jean-Ricner Bellegarde2024-11-09T15:00:00Z,Jean-Ricner Bellegarde,Wolves,1
+Hwang Hee-chan2024-11-09T15:00:00Z,Hwang Hee-chan,Wolves,0
+Ibrahim Sangaré2024-11-10T14:00:00Z,Ibrahim Sangaré,Nott'm Forest,0
+Martial Godo2024-11-09T15:00:00Z,Martial Godo,Fulham,0
+Gonçalo Manuel Ganchinho Guedes2024-11-09T15:00:00Z,Gonçalo Manuel Ganchinho Guedes,Wolves,1
+Elliot Anderson2024-11-10T14:00:00Z,Elliot Anderson,Nott'm Forest,1
+João Victor Gomes da Silva2024-11-09T15:00:00Z,João Victor Gomes da Silva,Wolves,1
+Facundo Buonanotte2024-11-10T14:00:00Z,Facundo Buonanotte,Leicester,1
+João Pedro Ferreira Silva2024-11-10T14:00:00Z,João Pedro Ferreira Silva,Nott'm Forest,1
+Enso González2024-11-09T15:00:00Z,Enso González,Wolves,0
+Francisco Jorge Tomás Oliveira2024-11-09T15:00:00Z,Francisco Jorge Tomás Oliveira,Wolves,0
+Emile Smith Rowe2024-11-09T15:00:00Z,Emile Smith Rowe,Fulham,1
+Josh King2024-11-09T15:00:00Z,Josh King,Fulham,0
+Ryan Yates2024-11-10T14:00:00Z,Ryan Yates,Nott'm Forest,1
+Eric da Silva Moreira2024-11-10T14:00:00Z,Eric da Silva Moreira,Nott'm Forest,0
+Josh Bowler2024-11-10T14:00:00Z,Josh Bowler,Nott'm Forest,0
+Jordan Ayew2024-11-10T14:00:00Z,Jordan Ayew,Leicester,1
+Saša Lukić2024-11-09T15:00:00Z,Saša Lukić,Fulham,0
+Orel Mangala2024-11-09T15:00:00Z,Orel Mangala,Everton,1
+Philip Billing2024-11-09T15:00:00Z,Philip Billing,Bournemouth,0
+Ryan Christie2024-11-09T15:00:00Z,Ryan Christie,Bournemouth,1
+Tyler Adams2024-11-09T15:00:00Z,Tyler Adams,Bournemouth,1
+Romain Faivre2024-11-09T15:00:00Z,Romain Faivre,Bournemouth,0
+Mohammed Kudus2024-11-09T15:00:00Z,Mohammed Kudus,West Ham,1
+Tomáš Souček2024-11-09T15:00:00Z,Tomáš Souček,West Ham,1
+George Earthy2024-11-09T15:00:00Z,George Earthy,West Ham,0
+Edson Álvarez Velázquez2024-11-09T15:00:00Z,Edson Álvarez Velázquez,West Ham,1
+Justin Kluivert2024-11-09T15:00:00Z,Justin Kluivert,Bournemouth,1
+Jarrod Bowen2024-11-09T15:00:00Z,Jarrod Bowen,West Ham,1
+Jaidon Anthony2024-11-09T15:00:00Z,Jaidon Anthony,Bournemouth,0
+Hamed Traorè2024-11-09T15:00:00Z,Hamed Traorè,Bournemouth,0
+Guido Rodríguez2024-11-09T15:00:00Z,Guido Rodríguez,West Ham,1
+Lewis Cook2024-11-09T15:00:00Z,Lewis Cook,Bournemouth,1
+David Brooks2024-11-09T15:00:00Z,David Brooks,Bournemouth,1
+Dango Ouattara2024-11-09T15:00:00Z,Dango Ouattara,Bournemouth,1
+Crysencio Summerville2024-11-09T15:00:00Z,Crysencio Summerville,West Ham,1
+Antoine Semenyo2024-11-09T15:00:00Z,Antoine Semenyo,Bournemouth,1
+Andy Irving2024-11-09T15:00:00Z,Andy Irving,West Ham,0
+Alex Scott2024-11-09T15:00:00Z,Alex Scott,Bournemouth,1
+Lucas Tolentino Coelho de Lima2024-11-09T15:00:00Z,Lucas Tolentino Coelho de Lima,West Ham,1
+Luis Guilherme Lira dos Santos2024-11-09T15:00:00Z,Luis Guilherme Lira dos Santos,West Ham,0
+Luis Sinisterra2024-11-09T15:00:00Z,Luis Sinisterra,Bournemouth,1
+Marcus Tavernier2024-11-09T15:00:00Z,Marcus Tavernier,Bournemouth,1
+Ramón Sosa2024-11-10T14:00:00Z,Ramón Sosa,Nott'm Forest,1
+Chiedozie Ogbene2024-11-10T14:00:00Z,Chiedozie Ogbene,Ipswich,1
+Jack Clarke2024-11-10T14:00:00Z,Jack Clarke,Ipswich,1
+Jens Cajuste2024-11-10T14:00:00Z,Jens Cajuste,Ipswich,1
+Sandro Tonali2024-11-10T14:00:00Z,Sandro Tonali,Newcastle,1
+Sam Szmodics2024-11-10T14:00:00Z,Sam Szmodics,Ipswich,1
+Sean Longstaff2024-11-10T14:00:00Z,Sean Longstaff,Newcastle,1
+Sam Morsy2024-11-10T14:00:00Z,Sam Morsy,Ipswich,1
+Dwight McNeil2024-11-09T15:00:00Z,Dwight McNeil,Everton,1
+Garang Kuol2024-11-10T14:00:00Z,Garang Kuol,Newcastle,0
+Harrison Armstrong2024-11-09T15:00:00Z,Harrison Armstrong,Everton,0
+Harvey Barnes2024-11-10T14:00:00Z,Harvey Barnes,Newcastle,1
+Idrissa Gueye2024-11-09T15:00:00Z,Idrissa Gueye,Everton,1
+Manuel Ugarte2024-11-10T14:00:00Z,Manuel Ugarte,Man Utd,1
+Abdoulaye Doucouré2024-11-09T15:00:00Z,Abdoulaye Doucouré,Everton,1
+Massimo Luongo2024-11-10T14:00:00Z,Massimo Luongo,Ipswich,0
+Anthony Gordon2024-11-10T14:00:00Z,Anthony Gordon,Newcastle,1
+Wes Burns2024-11-10T14:00:00Z,Wes Burns,Ipswich,1
+Isaac Hayden2024-11-10T14:00:00Z,Isaac Hayden,Newcastle,0
+Bruno Guimarães Rodriguez Moura2024-11-10T14:00:00Z,Bruno Guimarães Rodriguez Moura,Newcastle,1
+Cameron Humphreys2024-11-10T14:00:00Z,Cameron Humphreys,Ipswich,0
+Tim Iroegbunam2024-11-09T15:00:00Z,Tim Iroegbunam,Everton,0
+Conor Chaplin2024-11-10T14:00:00Z,Conor Chaplin,Ipswich,1
+Marcus Myers-Harness2024-11-10T14:00:00Z,Marcus Myers-Harness,Ipswich,0
+Nathan Broadhead2024-11-10T14:00:00Z,Nathan Broadhead,Ipswich,0
+Omari Giraud-Hutchinson2024-11-10T14:00:00Z,Omari Giraud-Hutchinson,Ipswich,1
+Maxwel Cornet2024-11-09T15:00:00Z,Maxwel Cornet,Southampton,0
+Jenson Metcalfe2024-11-09T15:00:00Z,Jenson Metcalfe,Everton,0
+Joelinton Cássio Apolinário de Lira2024-11-10T14:00:00Z,Joelinton Cássio Apolinário de Lira,Newcastle,1
+Jesper Lindstrøm2024-11-09T15:00:00Z,Jesper Lindstrøm,Everton,1
+Joe Willock2024-11-10T14:00:00Z,Joe Willock,Newcastle,1
+Joe White2024-11-10T14:00:00Z,Joe White,Newcastle,0
+Jacob Murphy2024-11-10T14:00:00Z,Jacob Murphy,Newcastle,1
+Miguel Almirón Rejala2024-11-10T14:00:00Z,Miguel Almirón Rejala,Newcastle,1
+Jack Taylor2024-11-10T14:00:00Z,Jack Taylor,Ipswich,1
+Kalvin Phillips2024-11-10T14:00:00Z,Kalvin Phillips,Ipswich,0
+James Garner2024-11-09T15:00:00Z,James Garner,Everton,0
+Jack Harrison2024-11-09T15:00:00Z,Jack Harrison,Everton,1
+Lewis Miley2024-11-10T14:00:00Z,Lewis Miley,Newcastle,0
+Toby Collyer2024-11-10T14:00:00Z,Toby Collyer,Man Utd,0
+Christian Eriksen2024-11-10T14:00:00Z,Christian Eriksen,Man Utd,1
+Mason Mount2024-11-10T14:00:00Z,Mason Mount,Man Utd,0
+Alejandro Garnacho2024-11-10T14:00:00Z,Alejandro Garnacho,Man Utd,1
+Amad Diallo2024-11-10T14:00:00Z,Amad Diallo,Man Utd,1
+Marcus Rashford2024-11-10T14:00:00Z,Marcus Rashford,Man Utd,1
+Carlos Henrique Casimiro2024-11-10T14:00:00Z,Carlos Henrique Casimiro,Man Utd,1
+Kobbie Mainoo2024-11-10T14:00:00Z,Kobbie Mainoo,Man Utd,0
+Bruno Borges Fernandes2024-11-10T14:00:00Z,Bruno Borges Fernandes,Man Utd,1
+Antony Matheus dos Santos2024-11-10T14:00:00Z,Antony Matheus dos Santos,Man Utd,0
+Hannibal Mejbri2024-11-10T14:00:00Z,Hannibal Mejbri,Man Utd,0
+Facundo Pellistri Rebollo2024-11-10T14:00:00Z,Facundo Pellistri Rebollo,Man Utd,0
+Ryan Fraser2024-11-09T15:00:00Z,Ryan Fraser,Southampton,0
+Scott McTominay2024-11-10T14:00:00Z,Scott McTominay,Man Utd,0
+Cheick Doucouré2024-11-09T15:00:00Z,Cheick Doucouré,Crystal Palace,0
+Daichi Kamada2024-11-09T15:00:00Z,Daichi Kamada,Crystal Palace,1
+Naouirou Ahamada2024-11-09T15:00:00Z,Naouirou Ahamada,Crystal Palace,0
+Will Hughes2024-11-09T15:00:00Z,Will Hughes,Crystal Palace,1
+Matheus França de Oliveira2024-11-09T15:00:00Z,Matheus França de Oliveira,Crystal Palace,0
+Adam Wharton2024-11-09T15:00:00Z,Adam Wharton,Crystal Palace,1
+Eberechi Eze2024-11-09T15:00:00Z,Eberechi Eze,Crystal Palace,1
+Malcolm Ebiowei2024-11-09T15:00:00Z,Malcolm Ebiowei,Crystal Palace,0
+David Ozoh2024-11-09T15:00:00Z,David Ozoh,Crystal Palace,0
+Jesurun Rak-Sakyi2024-11-09T15:00:00Z,Jesurun Rak-Sakyi,Crystal Palace,0
+Jeffrey Schlupp2024-11-09T15:00:00Z,Jeffrey Schlupp,Crystal Palace,1
+Jefferson Lerma Solís2024-11-09T15:00:00Z,Jefferson Lerma Solís,Crystal Palace,1
+Ismaïla Sarr2024-11-09T15:00:00Z,Ismaïla Sarr,Crystal Palace,1
+Mateus Gonçalo Espanha Fernandes2024-11-09T15:00:00Z,Mateus Gonçalo Espanha Fernandes,Southampton,1
+Kaden Rodney2024-11-09T15:00:00Z,Kaden Rodney,Crystal Palace,0
+Franco Umeh-Chibueze2024-11-09T15:00:00Z,Franco Umeh-Chibueze,Crystal Palace,0
+Asher Agbinone2024-11-09T15:00:00Z,Asher Agbinone,Crystal Palace,0
+Justin Devenny2024-11-09T15:00:00Z,Justin Devenny,Crystal Palace,0
+Will Smallbone2024-11-09T15:00:00Z,Will Smallbone,Southampton,1
+Adam Lallana2024-11-09T15:00:00Z,Adam Lallana,Southampton,1
+Kamaldeen Sulemana2024-11-09T15:00:00Z,Kamaldeen Sulemana,Southampton,1
+Flynn Downes2024-11-09T15:00:00Z,Flynn Downes,Southampton,1
+Joe Aribo2024-11-09T15:00:00Z,Joe Aribo,Southampton,1
+Shea Charles2024-11-09T15:00:00Z,Shea Charles,Southampton,0
+Samuel Edozie2024-11-09T15:00:00Z,Samuel Edozie,Southampton,0
+Carlos Alcaraz Durán2024-11-09T15:00:00Z,Carlos Alcaraz Durán,Southampton,0
+Samuel Amo-Ameyaw2024-11-09T15:00:00Z,Samuel Amo-Ameyaw,Southampton,0
+Tyler Dibling2024-11-09T15:00:00Z,Tyler Dibling,Southampton,1
+Lesley Ugochukwu2024-11-09T15:00:00Z,Lesley Ugochukwu,Southampton,0
+Ben Brereton Díaz2024-11-09T15:00:00Z,Ben Brereton Díaz,Southampton,0
+Jacob Wright2024-11-09T17:30:00Z,Jacob Wright,Man City,0
+Jayce Fitzgerald2024-11-10T14:00:00Z,Jayce Fitzgerald,Man Utd,0
+Paris Maghoma2024-11-09T15:00:00Z,Paris Maghoma,Brentford,0

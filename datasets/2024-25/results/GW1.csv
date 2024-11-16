@@ -1,0 +1,671 @@
+,element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out,id,name,cost,position,home_team,away_team,team_x
+0,1,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,2923,0,0,1,Fábio Ferreira Vieira,54,MID,Newcastle,Arsenal,Arsenal
+1,2,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,5,0,0,0,0,0,0,0,1,0,0,0,1,0.2,0.8,0.0,0.1,0,0.00,0.00,0.00,0.15,70,0,199810,0,0,2,Gabriel Fernando de Jesus,68,FWD,Newcastle,Arsenal,Arsenal
+2,3,2,Wolves,6,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,0,0,22,13.8,1.4,8.0,2.3,1,0.12,0.02,0.14,0.47,60,0,1167503,0,0,3,Gabriel dos Santos Magalhães,63,DEF,Newcastle,Arsenal,Arsenal
+3,4,2,Wolves,12,True,2024-08-17T14:00:00Z,2,0,1,90,1,1,1,0,0,0,0,0,0,0,3,48,54.8,24.1,46.0,12.5,1,0.45,0.04,0.49,0.47,80,0,1087445,0,0,4,Kai Havertz,82,FWD,Newcastle,Arsenal,Arsenal
+4,5,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,7300,0,0,5,Karl Hein,40,GKP,Newcastle,Arsenal,Arsenal
+5,6,2,Wolves,1,True,2024-08-17T14:00:00Z,2,0,1,21,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.8,8.0,0.8,0,0.02,0.01,0.03,0.15,55,0,73714,0,0,6,Jurriën Timber,55,DEF,Newcastle,Arsenal,Arsenal
+6,7,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,25861,0,0,7,Jorge Luiz Frello Filho,48,MID,Newcastle,Arsenal,Arsenal
+7,8,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,16779,0,0,8,Jakub Kiwior,48,DEF,Newcastle,Arsenal,Arsenal
+8,9,2,Wolves,3,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,0,0,16,13.6,36.7,25.0,7.5,1,0.08,0.19,0.27,0.47,70,0,253825,0,0,9,Gabriel Martinelli Silva,70,MID,Newcastle,Arsenal,Arsenal
+9,12,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,16484,0,0,12,Ethan Nwaneri,45,MID,Newcastle,Arsenal,Arsenal
+10,13,2,Wolves,3,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,0,0,16,15.0,24.0,15.0,5.4,1,0.02,0.06,0.08,0.47,85,0,1391537,0,0,13,Martin Ødegaard,82,MID,Newcastle,Arsenal,Arsenal
+11,15,2,Wolves,8,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,3,1,28,28.0,0.0,0.0,2.8,1,0.00,0.00,0.00,0.47,55,0,2143198,0,0,15,David Raya Martin,56,GKP,Newcastle,Arsenal,Arsenal
+12,16,2,Wolves,3,True,2024-08-17T14:00:00Z,2,0,1,84,0,0,1,0,0,0,0,0,0,0,0,9,6.6,13.4,8.0,2.8,1,0.09,0.05,0.14,0.32,65,0,552723,0,0,16,Declan Rice,63,MID,Newcastle,Arsenal,Arsenal
+13,17,2,Wolves,12,True,2024-08-17T14:00:00Z,2,0,1,79,1,1,1,0,0,0,0,1,0,0,2,42,64.2,61.7,78.0,20.4,1,0.35,0.37,0.72,0.32,100,0,2763895,0,0,17,Bukayo Saka,100,MID,Newcastle,Arsenal,Arsenal
+14,18,2,Wolves,6,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,0,0,26,14.8,0.9,0.0,1.6,1,0.00,0.00,0.00,0.47,60,0,3490919,0,0,18,William Saliba,60,DEF,Newcastle,Arsenal,Arsenal
+15,20,2,Wolves,3,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,0,0,16,14.4,43.6,1.0,5.9,1,0.06,0.06,0.12,0.47,50,0,6975,0,0,20,Thomas Partey,50,MID,Newcastle,Arsenal,Arsenal
+16,21,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5469,0,0,21,Kieran Tierney,43,DEF,Newcastle,Arsenal,Arsenal
+17,22,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,8462,0,0,22,Tomiyasu Takehiro,48,DEF,Newcastle,Arsenal,Arsenal
+18,23,2,Wolves,1,True,2024-08-17T14:00:00Z,2,0,1,10,0,0,0,0,0,0,0,0,0,0,0,2,4.2,0.3,0.0,0.5,0,0.00,0.00,0.00,0.15,70,0,192689,0,0,23,Leandro Trossard,69,MID,Newcastle,Arsenal,Arsenal
+19,24,2,Wolves,6,True,2024-08-17T14:00:00Z,2,0,1,90,0,0,1,0,0,0,0,0,0,0,0,22,5.8,1.3,8.0,1.5,1,0.07,0.06,0.13,0.47,65,0,927335,0,0,24,Benjamin White,63,DEF,Newcastle,Arsenal,Arsenal
+20,25,2,Wolves,6,True,2024-08-17T14:00:00Z,2,0,1,68,0,0,1,0,0,0,0,0,0,0,0,22,7.2,4.9,6.0,1.8,1,0.00,0.04,0.04,0.32,50,0,230223,0,0,25,Oleksandr Zinchenko,48,DEF,Newcastle,Arsenal,Arsenal
+21,73,6,Nott'm Forest,4,False,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,7,0,17,47.0,0.0,0.0,4.7,1,0.00,0.00,0.00,1.30,45,0,198435,0,0,73,Norberto Murara Neto,43,GKP,Newcastle,Arsenal,Arsenal
+22,186,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,70,0,164846,0,0,186,Raheem Sterling,67,MID,Newcastle,Arsenal,Arsenal
+23,578,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,226287,0,0,578,Riccardo Calafiori,58,DEF,Newcastle,Arsenal,Arsenal
+24,597,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1740,0,0,597,Myles Lewis-Skelly,45,MID,Newcastle,Arsenal,Arsenal
+25,633,21,Brighton,0,True,2024-08-31T11:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,708,1065,1272,564,633,Mikel Merino,60,MID,Newcastle,Arsenal,Arsenal
+26,638,21,Brighton,0,True,2024-08-31T11:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,638,Salah-Eddine Oulad M'hand,45,MID,Newcastle,Arsenal,Arsenal
+27,639,21,Brighton,0,True,2024-08-31T11:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,639,Tommy Setford,45,GKP,Newcastle,Arsenal,Arsenal
+28,657,39,Spurs,0,False,2024-09-15T13:00:00Z,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,657,Maldini Kacurri,40,DEF,Newcastle,Arsenal,Arsenal
+29,658,39,Spurs,0,False,2024-09-15T13:00:00Z,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,658,Ayden Heaven,40,DEF,Newcastle,Arsenal,Arsenal
+30,659,39,Spurs,0,False,2024-09-15T13:00:00Z,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,659,Ismeal Kabia,45,MID,Newcastle,Arsenal,Arsenal
+31,662,51,Leicester,0,True,2024-09-28T14:00:00Z,4,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,662,Josh Nichols,40,DEF,Newcastle,Arsenal,Arsenal
+32,665,61,Southampton,0,True,2024-10-05T14:00:00Z,3,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,665,Nathan Butler-Oyedeji,45,FWD,Newcastle,Arsenal,Arsenal
+33,28,7,West Ham,1,False,2024-08-17T16:30:00Z,1,2,1,73,0,0,0,1,0,0,0,1,0,0,0,1,0.0,30.5,13.0,4.2,1,0.21,0.21,0.42,1.39,65,0,328252,0,0,28,Leon Bailey,63,MID,Spurs,Aston Villa,Aston Villa
+34,29,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,77081,0,0,29,Ross Barkley,52,MID,Spurs,Aston Villa,Aston Villa
+35,30,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,4608,0,0,30,Enzo Barrenechea,49,MID,Spurs,Aston Villa,Aston Villa
+36,31,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,12149,0,0,31,Emiliano Buendía Stati,53,MID,Spurs,Aston Villa,Aston Villa
+37,32,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,81,0,0,0,1,0,0,0,0,0,0,0,7,9.0,12.4,2.0,2.3,1,0.00,0.01,0.01,1.41,45,0,263349,0,0,32,Matty Cash,44,DEF,Spurs,Aston Villa,Aston Villa
+38,33,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,82976,0,0,33,Leander Dendoncker,45,MID,Spurs,Aston Villa,Aston Villa
+39,34,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,5025,0,0,34,Moussa Diaby,65,MID,Spurs,Aston Villa,Aston Villa
+40,35,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,50517,0,0,35,Diego Carlos Santos Silva,45,DEF,Spurs,Aston Villa,Aston Villa
+41,36,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,73,0,0,0,1,0,0,0,0,0,0,0,14,14.4,19.2,0.0,3.4,1,0.00,0.13,0.13,1.39,45,0,196248,0,0,36,Lucas Digne,47,DEF,Spurs,Aston Villa,Aston Villa
+42,37,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,478,0,0,37,Lewis Dobbin,50,MID,Spurs,Aston Villa,Aston Villa
+43,38,7,West Ham,6,False,2024-08-17T16:30:00Z,1,2,1,28,1,0,0,0,0,0,0,0,0,0,1,30,34.4,2.1,23.0,6.0,0,0.38,0.00,0.38,1.17,60,0,23567,0,0,38,Jhon Durán,62,FWD,Spurs,Aston Villa,Aston Villa
+44,39,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,37657,0,0,39,Joe Gauci,40,GKP,Spurs,Aston Villa,Aston Villa
+45,40,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,46204,0,0,40,Kortney Hause,40,DEF,Spurs,Aston Villa,Aston Villa
+46,41,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,6971,0,0,41,Samuel Iling-Junior,54,MID,Spurs,Aston Villa,Aston Villa
+47,42,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,287,0,0,42,Boubacar Kamara,50,MID,Spurs,Aston Villa,Aston Villa
+48,43,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,2538,0,0,43,Kaine Kesler-Hayden,40,DEF,Spurs,Aston Villa,Aston Villa
+49,44,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,1,0,0,0,0,0,0,0,10,13.4,14.1,7.0,3.5,1,0.07,0.01,0.08,2.46,45,0,1165894,0,0,44,Ezri Konsa Ngoyo,45,DEF,Spurs,Aston Villa,Aston Villa
+50,45,7,West Ham,1,False,2024-08-17T16:30:00Z,1,2,1,16,0,0,0,0,0,0,0,0,0,0,0,5,8.8,10.5,0.0,1.9,0,0.00,0.04,0.04,1.06,50,0,328876,0,0,45,Ian Maatsen,48,DEF,Spurs,Aston Villa,Aston Villa
+51,46,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,165,0,0,46,Filip Marschall,40,GKP,Spurs,Aston Villa,Aston Villa
+52,47,7,West Ham,3,False,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,1,0,0,0,0,0,3,0,11,25.8,0.0,0.0,2.6,1,0.00,0.00,0.00,2.46,50,0,1108383,0,0,47,Emiliano Martínez Romero,50,GKP,Spurs,Aston Villa,Aston Villa
+53,48,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,61,0,0,0,1,0,0,0,0,0,0,0,6,1.6,2.6,15.0,1.9,1,0.30,0.01,0.31,1.28,55,0,204217,0,0,48,John McGinn,52,MID,Spurs,Aston Villa,Aston Villa
+54,49,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,7726,0,0,49,Tyrone Mings,44,DEF,Spurs,Aston Villa,Aston Villa
+55,50,7,West Ham,1,False,2024-08-17T16:30:00Z,1,2,1,8,0,0,0,0,0,0,0,0,0,0,0,6,4.2,0.3,0.0,0.5,0,0.00,0.00,0.00,1.04,40,0,26790,0,0,50,Kosta Nedeljković,40,DEF,Spurs,Aston Villa,Aston Villa
+56,51,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,9628,0,0,51,Robin Olsen,45,GKP,Spurs,Aston Villa,Aston Villa
+57,52,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,1,0,0,0,0,0,0,0,17,29.2,1.9,0.0,3.1,1,0.00,0.01,0.01,2.46,45,0,122710,0,0,52,Pau Torres,45,DEF,Spurs,Aston Villa,Aston Villa
+58,53,7,West Ham,4,False,2024-08-17T16:30:00Z,1,2,1,28,0,1,0,0,0,0,0,0,0,0,0,18,18.4,12.3,7.0,3.8,0,0.06,0.13,0.19,1.17,55,0,22089,0,0,53,Jacob Ramsey,54,MID,Spurs,Aston Villa,Aston Villa
+59,54,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,1,0,0,0,0,0,0,0,14,17.8,23.3,16.0,5.7,1,0.21,0.08,0.29,2.46,50,0,786621,0,0,54,Morgan Rogers,54,MID,Spurs,Aston Villa,Aston Villa
+60,55,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,153,0,0,55,Viljami Sinisalo,40,GKP,Spurs,Aston Villa,Aston Villa
+61,56,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,24385,0,0,56,Lino da Cruz Sousa,40,DEF,Spurs,Aston Villa,Aston Villa
+62,57,7,West Ham,7,False,2024-08-17T16:30:00Z,1,2,1,90,0,1,0,1,0,0,0,0,0,0,2,33,32.4,42.5,4.0,7.9,1,0.18,0.24,0.42,2.46,55,0,49190,0,0,57,Youri Tielemans,55,MID,Spurs,Aston Villa,Aston Villa
+63,58,7,West Ham,2,False,2024-08-17T16:30:00Z,1,2,1,61,0,0,0,1,0,0,0,0,0,0,0,3,0.0,0.2,4.0,0.3,1,0.00,0.00,0.00,1.28,90,0,3152729,0,0,58,Ollie Watkins,91,FWD,Spurs,Aston Villa,Aston Villa
+64,233,7,West Ham,10,False,2024-08-17T16:30:00Z,1,2,1,90,1,0,0,1,0,0,0,0,0,0,3,38,48.2,4.3,33.0,8.6,1,0.55,0.01,0.56,2.46,50,0,74901,0,0,233,Amadou Onana,50,MID,Spurs,Aston Villa,Aston Villa
+65,569,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,16,0,0,0,0,0,0,0,1,0,0,0,1,0.0,1.5,4.0,0.5,0,0.07,0.01,0.08,1.06,55,0,7043,0,0,569,Jaden Philogene,53,MID,Spurs,Aston Villa,Aston Villa
+66,598,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,6352,0,0,598,Lamare Bogarde,40,DEF,Spurs,Aston Villa,Aston Villa
+67,640,26,Leicester,0,False,2024-08-31T14:00:00Z,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,640,Sil Swinkels,40,DEF,Spurs,Aston Villa,Aston Villa
+68,641,26,Leicester,0,False,2024-08-31T14:00:00Z,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,641,Oliwier Zych,40,GKP,Spurs,Aston Villa,Aston Villa
+69,656,31,Everton,0,True,2024-09-14T16:30:00Z,3,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,656,Kadan Young,45,MID,Spurs,Aston Villa,Aston Villa
+70,59,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,22340,0,0,59,Max Aarons,43,DEF,Bournemouth,Man City,Bournemouth
+71,60,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,792,0,0,60,Tyler Adams,49,MID,Bournemouth,Man City,Bournemouth
+72,61,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,41159,0,0,61,Jaidon Anthony,45,MID,Bournemouth,Man City,Bournemouth
+73,62,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1134,0,0,62,David Brooks,49,MID,Bournemouth,Man City,Bournemouth
+74,63,6,Nott'm Forest,1,False,2024-08-17T14:00:00Z,1,1,1,27,0,0,0,0,0,0,0,0,0,0,0,5,3.6,1.1,2.0,0.7,0,0.00,0.01,0.01,0.28,50,0,22131,0,0,63,Ryan Christie,49,MID,Bournemouth,Man City,Bournemouth
+75,64,6,Nott'm Forest,1,False,2024-08-17T14:00:00Z,1,1,1,83,0,0,0,1,0,0,0,1,0,0,0,12,10.8,16.0,0.0,2.7,1,0.00,0.21,0.21,1.04,50,0,6523,0,0,64,Lewis Cook,50,MID,Bournemouth,Man City,Bournemouth
+76,65,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,3455,0,0,65,Enes Ünal,54,FWD,Bournemouth,Man City,Bournemouth
+77,66,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1707,0,0,66,Romain Faivre,50,MID,Bournemouth,Man City,Bournemouth
+78,67,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,17000,0,0,67,Hamed Traorè,45,MID,Bournemouth,Man City,Bournemouth
+79,68,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,30926,0,0,68,James Hill,40,DEF,Bournemouth,Man City,Bournemouth
+80,69,6,Nott'm Forest,1,False,2024-08-17T14:00:00Z,1,1,1,21,0,0,0,0,0,0,0,0,0,0,0,4,3.2,10.6,2.0,1.6,0,0.00,0.00,0.00,0.28,45,0,123937,0,0,69,Daniel Jebbison,45,FWD,Bournemouth,Man City,Bournemouth
+81,70,6,Nott'm Forest,1,False,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,1,0,0,0,5,12.0,12.7,2.0,2.7,1,0.00,0.01,0.01,1.30,45,0,40065,0,0,70,Milos Kerkez,44,DEF,Bournemouth,Man City,Bournemouth
+82,71,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,26,0,0,0,0,0,0,0,1,0,0,0,0,1.8,6.7,6.0,1.5,0,0.00,0.02,0.02,0.28,55,0,38451,0,0,71,Justin Kluivert,53,MID,Bournemouth,Man City,Bournemouth
+83,72,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,6641,0,0,72,Chris Mepham,44,DEF,Bournemouth,Man City,Bournemouth
+84,74,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,68,0,0,0,1,0,0,0,0,0,0,0,8,8.2,3.0,11.0,2.2,1,0.22,0.01,0.23,1.02,50,0,1977,0,0,74,Dango Ouattara,50,MID,Bournemouth,Man City,Bournemouth
+85,75,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,5098,0,0,75,Alex Paulsen,40,GKP,Bournemouth,Man City,Bournemouth
+86,76,6,Nott'm Forest,1,False,2024-08-17T14:00:00Z,1,1,1,6,0,0,0,0,0,0,0,0,0,0,0,1,2.0,0.0,2.0,0.4,0,0.00,0.00,0.00,0.26,50,0,6497,0,0,76,Philip Billing,48,MID,Bournemouth,Man City,Bournemouth
+87,77,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,62,0,0,0,1,0,0,0,0,0,0,0,11,22.8,12.8,0.0,3.6,1,0.00,0.01,0.01,1.02,50,0,4339,0,0,77,Alex Scott,48,MID,Bournemouth,Man City,Bournemouth
+88,78,6,Nott'm Forest,8,False,2024-08-17T14:00:00Z,1,1,1,90,1,0,0,1,0,0,0,0,0,0,1,25,39.0,6.7,53.0,9.9,1,0.44,0.04,0.48,1.30,55,0,92042,0,0,78,Antoine Semenyo,56,MID,Bournemouth,Man City,Bournemouth
+89,79,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,91548,0,0,79,Marcos Senesi,48,DEF,Bournemouth,Man City,Bournemouth
+90,80,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,63,0,0,0,1,0,0,0,0,0,0,0,7,7.0,1.8,23.0,3.2,1,0.15,0.02,0.17,1.02,50,0,17130,0,0,80,Luis Sinisterra,50,MID,Bournemouth,Man City,Bournemouth
+91,81,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,62,0,0,0,1,0,0,0,0,0,0,0,8,7.8,4.5,0.0,1.2,1,0.00,0.01,0.01,1.02,45,0,14466,0,0,81,Adam Smith,45,DEF,Bournemouth,Man City,Bournemouth
+92,83,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,14,10.2,41.4,27.0,7.9,1,0.42,0.12,0.54,1.30,55,0,14476,0,0,83,Marcus Tavernier,55,MID,Bournemouth,Man City,Bournemouth
+93,84,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,14323,0,0,84,Mark Travers,44,GKP,Bournemouth,Man City,Bournemouth
+94,85,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,9,15.6,1.1,0.0,1.7,1,0.00,0.02,0.02,1.30,45,0,37460,0,0,85,Illia Zabarnyi,44,DEF,Bournemouth,Man City,Bournemouth
+95,152,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,27495,0,0,152,Kepa Arrizabalaga,45,GKP,Bournemouth,Man City,Bournemouth
+96,580,6,Nott'm Forest,2,False,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,9,24.8,0.4,0.0,2.5,1,0.00,0.01,0.01,1.30,45,0,9224,0,0,580,Dean Huijsen,43,DEF,Bournemouth,Man City,Bournemouth
+97,592,6,Nott'm Forest,1,False,2024-08-17T14:00:00Z,1,1,1,27,0,0,0,0,0,0,0,0,0,0,0,4,4.2,1.3,0.0,0.6,0,0.00,0.01,0.01,0.28,45,0,14951,0,0,592,Julián Araujo Zúñiga,44,DEF,Bournemouth,Man City,Bournemouth
+98,599,6,Nott'm Forest,0,False,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,15836,0,0,599,Will Dennis,40,GKP,Bournemouth,Man City,Bournemouth
+99,617,12,Newcastle,2,True,2024-08-25T13:00:00Z,1,1,2,71,0,0,1,0,0,0,0,0,0,0,0,7,11.2,2.8,35.0,4.9,1,0.75,0.00,0.75,0.59,60,8001,10269,8938,937,617,Francisco Evanilson de Lima Barbosa,59,FWD,Bournemouth,Man City,Bournemouth
+100,86,8,Crystal Palace,2,True,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,1,0,0,0,0,0,0,0,4,7.8,1.3,33.0,4.2,1,0.28,0.00,0.28,1.17,45,0,32185,0,0,86,Kristoffer Ajer,45,DEF,Fulham,Brentford,Brentford
+101,87,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,6092,0,0,87,Ethan Brierley,45,MID,Fulham,Brentford,Brentford
+102,88,8,Crystal Palace,6,True,2024-08-18T13:00:00Z,2,1,1,90,0,1,0,1,0,0,0,0,0,0,1,23,39.4,0.5,17.0,5.7,1,0.22,0.00,0.22,1.17,45,0,31553,0,0,88,Nathan Collins,45,DEF,Fulham,Brentford,Brentford
+103,89,8,Crystal Palace,1,True,2024-08-18T13:00:00Z,2,1,1,16,0,0,0,0,0,0,0,0,0,0,0,3,1.8,1.3,0.0,0.3,0,0.00,0.00,0.00,0.67,50,0,6304,0,0,89,Mikkel Damsgaard,50,MID,Fulham,Brentford,Brentford
+104,90,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1084,0,0,90,Josh Dasilva,48,MID,Fulham,Brentford,Brentford
+105,91,8,Crystal Palace,4,True,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,1,0,0,0,0,0,6,0,22,46.4,0.0,0.0,4.6,1,0.00,0.00,0.00,1.17,45,0,1005914,0,0,91,Mark Flekken,45,GKP,Fulham,Brentford,Brentford
+106,92,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,8033,0,0,92,Rico Henry,43,DEF,Fulham,Brentford,Brentford
+107,93,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3440,0,0,93,Aaron Hickey,44,DEF,Fulham,Brentford,Brentford
+108,94,8,Crystal Palace,2,True,2024-08-18T13:00:00Z,2,1,1,73,0,0,0,1,0,0,0,0,0,0,0,10,11.2,15.1,5.0,3.1,1,0.07,0.03,0.10,0.50,50,0,16717,0,0,94,Vitaly Janelt,49,MID,Fulham,Brentford,Brentford
+109,95,8,Crystal Palace,2,True,2024-08-18T13:00:00Z,2,1,1,83,0,0,0,1,0,0,0,0,0,0,0,11,11.2,17.9,0.0,2.9,1,0.00,0.03,0.03,0.61,55,0,14932,0,0,95,Mathias Jensen,53,MID,Fulham,Brentford,Brentford
+110,96,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,20997,0,0,96,Kim Ji-soo,39,DEF,Fulham,Brentford,Brentford
+111,97,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5009,0,0,97,Yunus Emre Konak,45,MID,Fulham,Brentford,Brentford
+112,98,8,Crystal Palace,1,True,2024-08-18T13:00:00Z,2,1,1,16,0,0,0,0,0,0,0,0,0,0,0,4,2.0,0.5,0.0,0.3,0,0.00,0.00,0.00,0.67,50,0,4328,0,0,98,Keane Lewis-Potter,50,MID,Fulham,Brentford,Brentford
+113,99,8,Crystal Palace,9,True,2024-08-18T13:00:00Z,2,1,1,89,1,0,0,1,0,0,0,0,0,0,2,35,40.8,50.2,17.0,10.8,1,0.09,0.45,0.54,1.17,70,0,360975,0,0,99,Bryan Mbeumo,77,MID,Fulham,Brentford,Brentford
+114,100,8,Crystal Palace,1,True,2024-08-18T13:00:00Z,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0.0,0.1,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,79075,0,0,100,Ben Mee,43,DEF,Fulham,Brentford,Brentford
+115,101,8,Crystal Palace,2,True,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,1,0,0,0,0,0,0,0,15,17.8,12.3,0.0,3.0,1,0.00,0.01,0.01,1.17,50,0,11239,0,0,101,Christian Nørgaard,48,MID,Fulham,Brentford,Brentford
+116,102,8,Crystal Palace,1,True,2024-08-18T13:00:00Z,2,1,1,6,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.56,50,0,3770,0,0,102,Frank Onyeka,49,MID,Fulham,Brentford,Brentford
+117,103,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4262,0,0,103,Myles Peart-Harris,45,MID,Fulham,Brentford,Brentford
+118,104,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,1,1,0,0,0,0,0,0,3,18.8,0.1,17.0,3.6,1,0.01,0.00,0.01,1.17,45,0,37981,0,0,104,Ethan Pinnock,45,DEF,Fulham,Brentford,Brentford
+119,105,8,Crystal Palace,2,True,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,1,0,0,0,0,0,0,0,4,7.6,1.2,0.0,0.9,1,0.00,0.00,0.00,1.17,45,0,8169,0,0,105,Mads Roerslev Rasmussen,44,DEF,Fulham,Brentford,Brentford
+120,106,8,Crystal Palace,2,True,2024-08-18T13:00:00Z,2,1,1,73,0,0,0,1,0,0,0,0,0,0,0,-2,6.8,0.9,8.0,1.6,1,0.13,0.01,0.14,0.50,55,0,6235,0,0,106,Kevin Schade,53,MID,Fulham,Brentford,Brentford
+121,107,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,3171,0,0,107,Igor Thiago Nascimento Rodrigues,59,FWD,Fulham,Brentford,Brentford
+122,108,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,75,0,809422,0,0,108,Ivan Toney,73,FWD,Fulham,Brentford,Brentford
+123,109,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,372148,0,0,109,Hákon Valdimarsson,40,GKP,Fulham,Brentford,Brentford
+124,110,8,Crystal Palace,11,True,2024-08-18T13:00:00Z,2,1,1,83,1,1,0,1,0,0,0,1,0,0,3,47,50.2,14.2,44.0,10.8,1,1.00,0.01,1.01,0.61,60,0,232431,0,0,110,Yoane Wissa,59,FWD,Fulham,Brentford,Brentford
+125,111,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,263488,0,0,111,Yehor Yarmoliuk,44,MID,Fulham,Brentford,Brentford
+126,112,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5300,0,0,112,Mathias Jorgensen,45,DEF,Fulham,Brentford,Brentford
+127,314,8,Crystal Palace,1,True,2024-08-18T13:00:00Z,2,1,1,6,0,0,0,0,0,0,0,0,0,0,0,5,2.2,0.3,0.0,0.3,0,0.00,0.00,0.00,0.56,50,0,130410,0,0,314,Fábio Freitas Gouveia Carvalho,48,MID,Fulham,Brentford,Brentford
+128,338,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,32790,0,0,338,Sepp van den Berg,40,DEF,Fulham,Brentford,Brentford
+129,602,8,Crystal Palace,0,True,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,2327,0,0,602,Ryan Trevitt,45,MID,Fulham,Brentford,Brentford
+130,634,22,Southampton,0,True,2024-08-31T14:00:00Z,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,38,83,43,5,634,Gustavo Nunes Fernandes Gomes,49,MID,Fulham,Brentford,Brentford
+131,649,37,Man City,0,False,2024-09-14T14:00:00Z,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,502,1200,652,150,649,Jayden Meghoma,40,DEF,Fulham,Brentford,Brentford
+132,661,49,Spurs,0,False,2024-09-21T14:00:00Z,3,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,661,Tony Yogane,45,MID,Fulham,Brentford,Brentford
+133,113,3,Everton,6,False,2024-08-17T14:00:00Z,0,3,1,45,1,0,0,0,0,0,0,0,0,0,0,24,39.6,6.5,26.0,7.2,0,0.17,0.05,0.22,0.21,55,0,42304,0,0,113,Simon Adingra,54,MID,Liverpool,Brighton,Brighton
+134,114,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,744,0,0,114,Benicio Baker-Boaitey,45,MID,Liverpool,Brighton,Brighton
+135,115,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3519,0,0,115,Carlos Baleba,50,MID,Liverpool,Brighton,Brighton
+136,116,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,2127451,0,0,116,Valentín Barco,40,DEF,Liverpool,Brighton,Brighton
+137,118,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,13388,0,0,118,Amario Cozier-Duberry,45,MID,Liverpool,Brighton,Brighton
+138,119,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,2851,0,0,119,Mahmoud Dahoud,49,MID,Liverpool,Brighton,Brighton
+139,120,3,Everton,6,False,2024-08-17T14:00:00Z,0,3,1,75,0,0,1,0,0,0,0,0,0,0,0,23,7.0,0.3,6.0,1.3,1,0.07,0.00,0.07,0.45,45,0,367736,0,0,120,Lewis Dunk,45,DEF,Liverpool,Brighton,Brighton
+140,121,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,6559,0,0,121,Julio Enciso,54,MID,Liverpool,Brighton,Brighton
+141,122,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9056,0,0,122,Pervis Estupiñán,50,DEF,Liverpool,Brighton,Brighton
+142,123,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,9342,0,0,123,Evan Ferguson,55,FWD,Liverpool,Brighton,Brighton
+143,124,3,Everton,1,False,2024-08-17T14:00:00Z,0,3,1,8,0,0,0,0,0,0,0,0,0,0,0,4,0.4,7.6,0.0,0.8,0,0.00,0.00,0.00,0.00,50,0,14848,0,0,124,Billy Gilmour,50,MID,Liverpool,Brighton,Brighton
+144,125,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,10739,0,0,125,Pascal Groß,65,MID,Liverpool,Brighton,Brighton
+145,126,3,Everton,3,False,2024-08-17T14:00:00Z,0,3,1,90,0,0,1,0,0,0,0,0,0,0,0,14,11.8,6.1,2.0,2.0,1,0.00,0.01,0.01,0.45,50,0,2263,0,0,126,Jack Hinshelwood,50,MID,Liverpool,Brighton,Brighton
+146,127,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1515,0,0,127,Ibrahim Osman,50,MID,Liverpool,Brighton,Brighton
+147,128,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,9855,0,0,128,Igor Julio dos Santos de Paulo,44,DEF,Liverpool,Brighton,Brighton
+148,129,3,Everton,2,False,2024-08-17T14:00:00Z,0,3,1,81,0,0,1,0,0,0,0,0,0,0,0,9,5.0,10.8,7.0,2.3,1,0.03,0.02,0.05,0.45,55,0,1623770,0,0,129,João Pedro Junqueira de Jesus,54,FWD,Liverpool,Brighton,Brighton
+149,130,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,156,0,0,130,Kacper Kozłowski,45,MID,Liverpool,Brighton,Brighton
+150,131,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,21842,0,0,131,Tariq Lamptey,44,DEF,Liverpool,Brighton,Brighton
+151,132,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,612,0,0,132,Solly March,65,MID,Liverpool,Brighton,Brighton
+152,133,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3835,0,0,133,Adrian Mazilu,45,MID,Liverpool,Brighton,Brighton
+153,134,3,Everton,2,False,2024-08-17T14:00:00Z,0,3,1,81,0,0,1,0,0,0,0,1,0,0,0,10,22.4,43.8,4.0,7.0,1,0.00,0.11,0.11,0.45,50,0,5694,0,0,134,James Milner,50,MID,Liverpool,Brighton,Brighton
+154,135,3,Everton,4,False,2024-08-17T14:00:00Z,0,3,1,45,0,1,0,0,0,0,0,0,0,0,0,18,25.0,31.4,8.0,6.4,1,0.00,0.65,0.65,0.25,55,0,119994,0,0,135,Yankuba Minteh,53,MID,Liverpool,Brighton,Brighton
+155,136,3,Everton,8,False,2024-08-17T14:00:00Z,0,3,1,88,1,0,1,0,0,0,0,0,0,0,0,27,48.2,4.1,80.0,13.2,1,0.97,0.04,1.01,0.45,65,0,164023,0,0,136,Mitoma Kaoru,65,MID,Liverpool,Brighton,Brighton
+156,137,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,32773,0,0,137,Jakub Moder,44,MID,Liverpool,Brighton,Brighton
+157,138,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,47927,0,0,138,Mark O’Mahony,45,FWD,Liverpool,Brighton,Brighton
+158,139,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,12397,0,0,139,Odeluga Offiah,40,DEF,Liverpool,Brighton,Brighton
+159,140,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4299,0,0,140,Cameron Peupion,45,MID,Liverpool,Brighton,Brighton
+160,141,3,Everton,1,False,2024-08-17T14:00:00Z,0,3,1,8,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.8,0.0,0.1,0,0.00,0.00,0.00,0.00,50,0,2792,0,0,141,Jeremy Sarmiento Morante,49,MID,Liverpool,Brighton,Brighton
+161,142,3,Everton,7,False,2024-08-17T14:00:00Z,0,3,1,90,0,0,1,0,0,0,0,0,0,1,1,31,18.6,0.0,0.0,1.9,1,0.00,0.00,0.00,0.45,45,0,49675,0,0,142,Jason Steele,43,GKP,Liverpool,Brighton,Brighton
+162,143,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,1930,0,0,143,Deniz Undav,55,FWD,Liverpool,Brighton,Brighton
+163,144,3,Everton,6,False,2024-08-17T14:00:00Z,0,3,1,90,0,0,1,0,0,0,0,0,0,0,0,28,18.8,0.5,0.0,1.9,1,0.00,0.00,0.00,0.45,45,0,21316,0,0,144,Jan Paul van Hecke,45,DEF,Liverpool,Brighton,Brighton
+164,145,3,Everton,8,False,2024-08-17T14:00:00Z,0,3,1,90,0,0,1,0,0,0,0,0,0,0,2,34,20.6,1.3,0.0,2.2,1,0.00,0.00,0.00,0.45,45,0,15104,0,0,145,Joël Veltman,45,DEF,Liverpool,Brighton,Brighton
+165,146,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,45968,0,0,146,Bart Verbruggen,45,GKP,Liverpool,Brighton,Brighton
+166,147,3,Everton,1,False,2024-08-17T14:00:00Z,0,3,1,14,0,0,0,0,0,0,0,0,0,0,0,9,5.6,0.7,2.0,0.8,0,0.00,0.02,0.02,0.00,45,0,9097,0,0,147,Adam Webster,44,DEF,Liverpool,Brighton,Brighton
+167,148,3,Everton,12,False,2024-08-17T14:00:00Z,0,3,1,90,1,1,1,0,0,0,0,0,0,0,3,41,61.4,24.8,25.0,11.1,1,0.20,0.04,0.24,0.45,55,0,64656,0,0,148,Danny Welbeck,59,FWD,Liverpool,Brighton,Brighton
+168,149,3,Everton,6,False,2024-08-17T14:00:00Z,0,3,1,90,0,1,1,0,0,0,0,0,0,0,0,20,31.0,16.3,0.0,4.7,1,0.00,0.02,0.02,0.45,50,0,4093,0,0,149,Mats Wieffer,48,MID,Liverpool,Brighton,Brighton
+169,595,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,2682,0,0,595,Brajan Gruda,54,MID,Liverpool,Brighton,Brighton
+170,600,3,Everton,1,False,2024-08-17T14:00:00Z,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.1,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,754,0,0,600,Yasin Ayari,50,MID,Liverpool,Brighton,Brighton
+171,601,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,486,0,0,601,Andrew Moran,50,MID,Liverpool,Brighton,Brighton
+172,615,3,Everton,0,False,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,615,Carl Rushworth,40,GKP,Liverpool,Brighton,Brighton
+173,618,13,Man Utd,1,True,2024-08-24T11:30:00Z,2,1,2,1,0,0,0,0,0,0,0,0,0,0,0,4,1.6,0.8,0.0,0.2,0,0.00,0.01,0.01,0.10,55,1528,2247,1740,212,618,Georginio Rutter,55,MID,Liverpool,Brighton,Brighton
+174,628,21,Arsenal,0,False,2024-08-31T11:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,5844,6882,7861,2017,628,Ferdi Kadioglu,45,DEF,Liverpool,Brighton,Brighton
+175,629,21,Arsenal,0,False,2024-08-31T11:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,246,304,362,116,629,Matt O'Riley,55,MID,Liverpool,Brighton,Brighton
+176,663,54,Chelsea,0,False,2024-09-28T14:00:00Z,4,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,663,Imari Samuels,40,DEF,Liverpool,Brighton,Brighton
+177,668,84,Wolves,0,True,2024-10-26T14:00:00Z,2,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,668,Killian Cahill,40,GKP,Liverpool,Brighton,Brighton
+178,150,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,910,0,0,150,Andrey Nascimento dos Santos,45,MID,Man Utd,Chelsea,Chelsea
+179,151,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,30921,0,0,151,Ângelo Gabriel Borges Damaceno,45,MID,Man Utd,Chelsea,Chelsea
+180,153,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,11552,0,0,153,Benoît Badiashile,43,DEF,Man Utd,Chelsea,Chelsea
+181,154,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,18789,0,0,154,Lucas Bergström,40,GKP,Man Utd,Chelsea,Chelsea
+182,155,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,33631,0,0,155,Marcus Bettinelli,40,GKP,Man Utd,Chelsea,Chelsea
+183,157,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,1,0,0,0,12,11.6,28.3,2.0,4.2,1,0.03,0.06,0.09,0.77,50,0,57062,0,0,157,Moisés Caicedo Corozo,49,MID,Man Utd,Chelsea,Chelsea
+184,158,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,10728,0,0,158,Cesare Casadei,45,MID,Man Utd,Chelsea,Chelsea
+185,160,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,74006,0,0,160,Ben Chilwell,47,DEF,Man Utd,Chelsea,Chelsea
+186,161,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,5259,0,0,161,Carney Chukwuemeka,48,MID,Man Utd,Chelsea,Chelsea
+187,162,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,8,20.4,0.8,0.0,2.1,1,0.00,0.01,0.01,0.77,45,0,60767,0,0,162,Levi Colwill,46,DEF,Man Utd,Chelsea,Chelsea
+188,163,9,Man City,2,True,2024-08-18T15:30:00Z,0,2,1,79,0,0,0,1,0,0,0,0,0,0,0,16,18.0,4.0,2.0,2.4,1,0.00,0.02,0.02,0.69,50,0,521204,0,0,163,Marc Cucurella Saseta,50,DEF,Man Utd,Chelsea,Chelsea
+189,164,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,11959,0,0,164,David Datro Fofana,54,FWD,Man Utd,Chelsea,Chelsea
+190,165,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,6224,0,0,165,Deivid Washington de Souza Eugênio,50,FWD,Man Utd,Chelsea,Chelsea
+191,166,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,24,0,0,0,1,0,0,0,0,0,0,0,4,2.0,1.6,0.0,0.4,0,0.00,0.01,0.01,0.11,60,0,23669,0,0,166,Kiernan Dewsbury-Hall,56,MID,Man Utd,Chelsea,Chelsea
+192,167,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,39895,0,0,167,Axel Disasi,43,DEF,Man Utd,Chelsea,Chelsea
+193,168,9,Man City,2,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,16,9.6,10.0,26.0,4.6,1,0.22,0.08,0.30,0.77,50,0,118384,0,0,168,Enzo Fernández,49,MID,Man Utd,Chelsea,Chelsea
+194,169,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,80385,0,0,169,Conor Gallagher,59,MID,Man Utd,Chelsea,Chelsea
+195,170,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,10496,0,0,170,Alfie Gilchrist,40,DEF,Man Utd,Chelsea,Chelsea
+196,171,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,0,7.0,2.8,6.0,1.6,1,0.00,0.07,0.07,0.77,50,0,265669,0,0,171,Malo Gusto,49,DEF,Man Utd,Chelsea,Chelsea
+197,172,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9795,0,0,172,Reece James,49,DEF,Man Utd,Chelsea,Chelsea
+198,173,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3460,0,0,173,Omari Kellyman,44,MID,Man Utd,Chelsea,Chelsea
+199,174,9,Man City,2,True,2024-08-18T15:30:00Z,0,2,1,65,0,0,0,1,0,0,0,0,0,0,0,18,15.2,13.5,0.0,2.9,1,0.00,0.18,0.18,0.66,45,0,77766,0,0,174,Roméo Lavia,45,MID,Man Utd,Chelsea,Chelsea
+200,175,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,54070,0,0,175,Romelu Lukaku Bolingoli,63,FWD,Man Utd,Chelsea,Chelsea
+201,176,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,716,0,0,176,Malang Sarr,45,DEF,Man Utd,Chelsea,Chelsea
+202,177,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,36421,0,0,177,Noni Madueke,65,MID,Man Utd,Chelsea,Chelsea
+203,178,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,24,0,0,0,1,0,0,0,0,0,0,0,2,0.0,0.3,0.0,0.0,0,0.00,0.00,0.00,0.11,50,0,62388,0,0,178,Marc Guiu Paz,48,FWD,Man Utd,Chelsea,Chelsea
+204,179,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,29901,0,0,179,Mykhailo Mudryk,62,MID,Man Utd,Chelsea,Chelsea
+205,180,9,Man City,2,True,2024-08-18T15:30:00Z,0,2,1,65,0,0,0,1,0,0,0,0,0,0,0,3,4.6,23.6,23.0,5.1,1,0.47,0.06,0.53,0.66,75,0,159569,0,0,180,Nicolas Jackson,79,FWD,Man Utd,Chelsea,Chelsea
+206,181,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,57,0,0,0,1,0,0,0,0,0,0,0,6,7.8,13.5,13.0,3.4,1,0.15,0.06,0.21,0.66,65,0,1446069,0,0,181,Christopher Nkunku,60,MID,Man Utd,Chelsea,Chelsea
+207,182,9,Man City,2,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,18,20.4,37.8,10.0,6.8,1,0.07,0.19,0.26,0.77,105,0,3210033,0,0,182,Cole Palmer,109,MID,Man Utd,Chelsea,Chelsea
+208,183,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,70701,0,0,183,Đorđe Petrović,44,GKP,Man Utd,Chelsea,Chelsea
+209,184,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,10,0,0,0,1,0,0,0,0,0,0,0,2,0.0,0.5,0.0,0.0,0,0.00,0.00,0.00,0.08,45,0,7438,0,0,184,Renato Palma Veiga,45,MID,Man Utd,Chelsea,Chelsea
+210,185,9,Man City,2,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,3,0,7,23.4,0.0,0.0,2.3,1,0.00,0.00,0.00,0.77,45,0,226022,0,0,185,Robert Sánchez,47,GKP,Man Utd,Chelsea,Chelsea
+211,187,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,23505,0,0,187,Tosin Adarabioyo,44,DEF,Man Utd,Chelsea,Chelsea
+212,189,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,3,11.6,1.3,6.0,1.9,1,0.04,0.01,0.05,0.77,45,0,22753,0,0,189,Wesley Fofana,45,DEF,Man Utd,Chelsea,Chelsea
+213,386,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,33031,0,0,386,Jadon Sancho,64,MID,Man Utd,Chelsea,Chelsea
+214,560,9,Man City,1,True,2024-08-18T15:30:00Z,0,2,1,32,0,0,0,1,0,0,0,0,0,0,0,6,7.4,26.7,9.0,4.3,0,0.04,0.16,0.20,0.11,65,0,100779,0,0,560,Pedro Lomba Neto,62,MID,Man Utd,Chelsea,Chelsea
+215,575,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,5717,0,0,575,Caleb Wiley,40,DEF,Man Utd,Chelsea,Chelsea
+216,581,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,30077,0,0,581,Filip Jørgensen,43,GKP,Man Utd,Chelsea,Chelsea
+217,621,20,Wolves,6,False,2024-08-25T13:00:00Z,2,6,2,22,1,0,0,0,0,0,0,0,0,0,0,25,34.6,0.8,22.0,5.7,0,0.19,0.01,0.20,0.12,65,10563,16637,11987,1424,621,João Félix Sequeira,61,MID,Man Utd,Chelsea,Chelsea
+218,11,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,31675,0,0,11,Eddie Nketiah,59,FWD,Wolves,Crystal Palace,Crystal Palace
+219,159,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,15983,0,0,159,Trevoh Chalobah,44,DEF,Wolves,Crystal Palace,Crystal Palace
+220,190,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,33112,0,0,190,Naouirou Ahamada,45,MID,Wolves,Crystal Palace,Crystal Palace
+221,193,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,6,0,0,0,0,0,0,0,0,0,0,0,4,0.4,2.8,0.0,0.3,0,0.00,0.00,0.00,0.00,50,0,8122,0,0,193,Cheick Doucouré,49,MID,Wolves,Crystal Palace,Crystal Palace
+222,194,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,83,0,0,0,2,0,0,0,1,0,0,0,1,16.4,1.8,0.0,1.8,1,0.00,0.01,0.01,1.59,45,0,15846,0,0,194,Chris Richards,44,DEF,Wolves,Crystal Palace,Crystal Palace
+223,195,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,12507,0,0,195,Chadi Riad Dnanou,43,DEF,Wolves,Crystal Palace,Crystal Palace
+224,196,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,10517,0,0,196,Nathaniel Clyne,44,DEF,Wolves,Crystal Palace,Crystal Palace
+225,197,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,716,0,0,197,Malcolm Ebiowei,45,MID,Wolves,Crystal Palace,Crystal Palace
+226,199,8,Brentford,2,False,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,2,0,0,0,0,0,0,0,14,12.4,6.8,65.0,8.4,1,0.41,0.05,0.46,1.59,70,0,2972520,0,0,199,Eberechi Eze,67,MID,Wolves,Crystal Palace,Crystal Palace
+227,200,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,2,0,0,0,1,0,0,0,9,21.0,2.6,0.0,2.4,1,0.00,0.02,0.02,1.59,45,0,643172,0,0,200,Marc Guéhi,44,DEF,Wolves,Crystal Palace,Crystal Palace
+228,201,8,Brentford,2,False,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,2,0,0,0,0,0,3,0,5,26.4,0.0,0.0,2.6,1,0.00,0.00,0.00,1.59,45,0,1563145,0,0,201,Dean Henderson,44,GKP,Wolves,Crystal Palace,Crystal Palace
+229,202,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,8984,0,0,202,Rob Holding,43,DEF,Wolves,Crystal Palace,Crystal Palace
+230,203,8,Brentford,2,False,2024-08-18T13:00:00Z,2,1,1,83,0,0,0,2,0,0,0,0,0,0,0,10,14.2,14.0,4.0,3.2,1,0.00,0.05,0.05,1.59,50,0,4041,0,0,203,Will Hughes,49,MID,Wolves,Crystal Palace,Crystal Palace
+231,205,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,69,0,0,0,1,0,0,0,1,0,0,0,2,7.8,25.0,4.0,3.7,1,0.00,0.06,0.06,0.64,55,0,50612,0,0,205,Daichi Kamada,51,MID,Wolves,Crystal Palace,Crystal Palace
+232,206,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,16,0,0,0,1,0,0,0,0,0,0,0,7,3.4,14.4,0.0,1.8,0,0.00,0.32,0.32,0.95,50,0,5376,0,0,206,Jefferson Lerma Solís,48,MID,Wolves,Crystal Palace,Crystal Palace
+233,207,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,45,0,0,0,1,0,0,0,0,0,0,0,1,0.0,3.1,4.0,0.7,1,0.00,0.01,0.01,0.50,75,0,542468,0,0,207,Jean-Philippe Mateta,73,FWD,Wolves,Crystal Palace,Crystal Palace
+234,208,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,11416,0,0,208,Matheus França de Oliveira,44,MID,Wolves,Crystal Palace,Crystal Palace
+235,209,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,90762,0,0,209,Remi Matthews,40,GKP,Wolves,Crystal Palace,Crystal Palace
+236,210,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,2,0,0,0,0,0,0,0,6,13.8,27.0,6.0,4.7,1,0.12,0.03,0.15,1.59,50,0,224405,0,0,210,Tyrick Mitchell,49,DEF,Wolves,Crystal Palace,Crystal Palace
+237,211,8,Brentford,4,False,2024-08-18T13:00:00Z,2,1,1,90,0,1,0,2,0,0,0,0,0,0,0,11,12.2,13.4,6.0,3.2,1,0.00,0.02,0.02,1.59,50,0,387466,0,0,211,Daniel Muñoz,48,DEF,Wolves,Crystal Palace,Crystal Palace
+238,212,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,417,0,0,212,David Ozoh,45,MID,Wolves,Crystal Palace,Crystal Palace
+239,213,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,20807,0,0,213,Jesurun Rak-Sakyi,45,MID,Wolves,Crystal Palace,Crystal Palace
+240,214,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9877,0,0,214,Jeffrey Schlupp,47,MID,Wolves,Crystal Palace,Crystal Palace
+241,215,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,12469,0,0,215,Joel Ward,43,DEF,Wolves,Crystal Palace,Crystal Palace
+242,216,8,Brentford,2,False,2024-08-18T13:00:00Z,2,1,1,73,0,0,0,1,0,0,0,0,0,0,0,18,14.2,1.8,18.0,3.4,1,0.09,0.02,0.11,0.64,50,0,43419,0,0,216,Adam Wharton,48,MID,Wolves,Crystal Palace,Crystal Palace
+243,445,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,1752814,0,0,445,Matt Turner,40,GKP,Wolves,Crystal Palace,Crystal Palace
+244,585,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,6,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.3,0.0,0.1,0,0.00,0.00,0.00,0.00,60,0,29330,0,0,585,Ismaïla Sarr,57,MID,Wolves,Crystal Palace,Crystal Palace
+245,644,23,Chelsea,0,False,2024-09-01T12:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,644,Franco Umeh-Chibueze,45,MID,Wolves,Crystal Palace,Crystal Palace
+246,645,23,Chelsea,0,False,2024-09-01T12:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,645,Justin Devenny,45,MID,Wolves,Crystal Palace,Crystal Palace
+247,646,23,Chelsea,0,False,2024-09-01T12:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,646,Asher Agbinone,45,MID,Wolves,Crystal Palace,Crystal Palace
+248,647,23,Chelsea,0,False,2024-09-01T12:30:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,647,Kaden Rodney,45,MID,Wolves,Crystal Palace,Crystal Palace
+249,650,34,Leicester,1,True,2024-09-14T14:00:00Z,2,2,4,90,0,0,0,2,0,0,0,0,0,0,0,5,16.0,11.8,2.0,3.0,1,0.00,0.04,0.04,1.23,45,1481,2507,1865,384,650,Maxence Lacroix,45,DEF,Wolves,Crystal Palace,Crystal Palace
+250,666,66,Liverpool,0,True,2024-10-05T11:30:00Z,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,666,Caleb Kporha,40,DEF,Wolves,Crystal Palace,Crystal Palace
+251,156,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,7671,0,0,156,Armando Broja,54,FWD,Southampton,Everton,Everton
+252,217,3,Brighton,2,True,2024-08-17T14:00:00Z,0,3,1,62,0,0,0,2,0,0,0,0,0,0,0,2,2.4,3.2,5.0,1.1,1,0.14,0.01,0.15,1.13,55,0,46194,0,0,217,Abdoulaye Doucouré,52,MID,Southampton,Everton,Everton
+253,218,3,Brighton,1,True,2024-08-17T14:00:00Z,0,3,1,14,0,0,0,1,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.07,50,0,36900,0,0,218,Norberto Bercique Gomes Betuncal,50,FWD,Southampton,Everton,Everton
+254,219,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,229400,0,0,219,Jarrad Branthwaite,48,DEF,Southampton,Everton,Everton
+255,220,3,Brighton,2,True,2024-08-17T14:00:00Z,0,3,1,75,0,0,0,2,0,0,0,0,0,0,0,5,0.0,1.8,6.0,0.8,1,0.00,0.01,0.01,1.36,60,0,172226,0,0,220,Dominic Calvert-Lewin,60,FWD,Southampton,Everton,Everton
+256,221,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4723,0,0,221,Séamus Coleman,43,DEF,Southampton,Everton,Everton
+257,222,3,Brighton,2,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,0,0,0,0,6,2.4,2.8,3.0,0.8,1,0.02,0.01,0.03,1.43,50,0,5446,0,0,222,Idrissa Gueye,49,MID,Southampton,Everton,Everton
+258,223,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,2327,0,0,223,James Garner,50,MID,Southampton,Everton,Everton
+259,224,3,Brighton,2,True,2024-08-17T14:00:00Z,0,3,1,84,0,0,0,2,0,0,0,0,0,0,0,9,9.8,16.3,32.0,5.8,1,0.14,0.26,0.40,1.36,55,0,15242,0,0,224,Jack Harrison,53,MID,Southampton,Everton,Everton
+260,225,3,Brighton,1,True,2024-08-17T14:00:00Z,0,3,1,5,0,0,0,1,0,0,0,0,0,0,0,-1,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.07,40,0,43592,0,0,225,Mason Holgate,40,DEF,Southampton,Everton,Everton
+261,226,3,Brighton,2,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,0,0,0,0,6,18.8,2.5,10.0,3.1,1,0.14,0.01,0.15,1.43,45,0,14609,0,0,226,Tim Iroegbunam,45,MID,Southampton,Everton,Everton
+262,227,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,59289,0,0,227,João Neves Virgínia,40,GKP,Southampton,Everton,Everton
+263,228,3,Brighton,1,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,0,0,0,0,0,12.2,0.4,4.0,1.7,1,0.01,0.01,0.02,1.43,40,0,195758,0,0,228,Michael Keane,42,DEF,Southampton,Everton,Everton
+264,229,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,154002,0,0,229,Neal Maupay,49,FWD,Southampton,Everton,Everton
+265,230,3,Brighton,2,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,0,0,0,0,8,9.2,19.7,0.0,2.9,1,0.00,0.16,0.16,1.43,55,0,79050,0,0,230,Dwight McNeil,58,MID,Southampton,Everton,Everton
+266,231,3,Brighton,1,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,0,0,0,0,-5,4.8,1.2,2.0,0.8,1,0.00,0.00,0.00,1.43,45,0,854973,0,0,231,Vitalii Mykolenko,43,DEF,Southampton,Everton,Everton
+267,232,3,Brighton,1,True,2024-08-17T14:00:00Z,0,3,1,27,0,0,0,1,0,0,0,0,0,0,0,3,5.0,0.2,2.0,0.7,0,0.00,0.00,0.00,0.30,55,0,14764,0,0,232,Iliman Ndiaye,54,FWD,Southampton,Everton,Everton
+268,234,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,2504,0,0,234,Nathan Patterson,44,DEF,Southampton,Everton,Everton
+269,235,3,Brighton,1,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,0,0,2,0,2,23.8,0.0,0.0,2.4,1,0.00,0.02,0.02,1.43,50,0,1450939,0,0,235,Jordan Pickford,48,GKP,Southampton,Everton,Everton
+270,236,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,90,0,0,0,3,0,0,0,1,0,0,0,-4,17.4,10.8,4.0,3.2,1,0.01,0.01,0.02,1.43,50,0,204385,0,0,236,James Tarkowski,48,DEF,Southampton,Everton,Everton
+271,237,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1528,0,0,237,Youssef Ramalho Chermiti,49,FWD,Southampton,Everton,Everton
+272,238,3,Brighton,-2,True,2024-08-17T14:00:00Z,0,3,1,65,0,0,0,3,0,0,0,0,1,0,0,-10,9.8,15.2,0.0,2.5,1,0.00,0.17,0.17,1.23,45,0,19370,0,0,238,Ashley Young,45,DEF,Southampton,Everton,Everton
+273,577,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,13030,0,0,577,Jesper Lindstrøm,52,MID,Southampton,Everton,Everton
+274,582,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,29022,0,0,582,Jake O'Brien,47,DEF,Southampton,Everton,Everton
+275,603,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,8422,0,0,603,Harrison Armstrong,45,MID,Southampton,Everton,Everton
+276,614,3,Brighton,0,True,2024-08-17T14:00:00Z,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,614,Jenson Metcalfe,45,MID,Southampton,Everton,Everton
+277,624,19,Spurs,0,False,2024-08-24T14:00:00Z,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,693,1653,768,75,624,Asmir Begovic,40,GKP,Southampton,Everton,Everton
+278,627,19,Spurs,0,False,2024-08-24T14:00:00Z,4,0,2,90,0,0,0,4,0,0,0,0,0,0,0,0,15.4,0.3,0.0,1.6,1,0.00,0.00,0.00,2.43,40,0,0,0,0,627,Roman Dixon,40,DEF,Southampton,Everton,Everton
+279,651,31,Aston Villa,1,False,2024-09-14T16:30:00Z,3,2,4,26,0,0,0,1,0,0,0,0,0,0,0,3,1.6,0.3,6.0,0.8,0,0.09,0.00,0.09,0.72,50,62,218,85,23,651,Orel Mangala,50,MID,Southampton,Everton,Everton
+280,10,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3576,0,0,10,Reiss Nelson,50,MID,Fulham,Brentford,Fulham
+281,19,1,Man Utd,3,False,2024-08-16T19:00:00Z,1,0,1,63,0,0,1,0,0,0,0,0,0,0,0,11,4.0,3.8,0.0,0.8,1,0.00,0.00,0.00,1.50,55,0,1427753,0,0,19,Emile Smith Rowe,57,MID,Fulham,Brentford,Fulham
+282,191,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,90,0,0,0,2,0,0,0,1,0,0,0,3,18.4,2.9,7.0,2.8,1,0.04,0.02,0.06,1.59,45,0,1762243,0,0,191,Joachim Andersen,43,DEF,Fulham,Brentford,Fulham
+283,239,1,Man Utd,3,False,2024-08-16T19:00:00Z,1,0,1,77,0,0,1,0,0,0,0,0,0,0,0,5,1.0,3.8,14.0,1.9,1,0.10,0.02,0.12,1.57,50,0,21783,0,0,239,Adama Traoré,51,MID,Fulham,Brentford,Fulham
+284,240,1,Man Utd,1,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,1,0,0,0,15,11.0,83.0,2.0,9.6,1,0.00,0.16,0.16,1.77,55,0,356810,0,0,240,Andreas Hoelgebaum Pereira,53,MID,Fulham,Brentford,Fulham
+285,241,1,Man Utd,1,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,1,0,0,0,5,9.2,0.8,8.0,1.8,1,0.10,0.03,0.13,2.43,45,0,26833,0,0,241,Calvin Bassey,45,DEF,Fulham,Brentford,Fulham
+286,242,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,38417,0,0,242,Steven Benda,40,GKP,Fulham,Brentford,Fulham
+287,243,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,26,0,0,0,1,0,0,0,1,0,0,0,2,3.8,11.7,4.0,2.0,0,0.00,0.05,0.05,0.94,50,0,3772,0,0,243,Tom Cairney,48,MID,Fulham,Brentford,Fulham
+288,244,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,267974,0,0,244,Timothy Castagne,42,DEF,Fulham,Brentford,Fulham
+289,245,1,Man Utd,2,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,13,25.4,0.2,0.0,2.6,1,0.00,0.00,0.00,2.43,45,0,12977,0,0,245,Issa Diop,44,DEF,Fulham,Brentford,Fulham
+290,246,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1375,0,0,246,Luke Harris,45,MID,Fulham,Brentford,Fulham
+291,247,1,Man Utd,2,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,5,11.0,10.9,13.0,3.5,1,0.04,0.15,0.19,2.43,55,0,44896,0,0,247,Alex Iwobi,55,MID,Fulham,Brentford,Fulham
+292,248,1,Man Utd,3,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,4,0,12,33.0,0.0,0.0,3.3,1,0.00,0.00,0.00,2.43,50,0,215262,0,0,248,Bernd Leno,50,GKP,Fulham,Brentford,Fulham
+293,249,1,Man Utd,2,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,16,11.6,2.9,0.0,1.5,1,0.00,0.01,0.01,1.77,50,0,3707,0,0,249,Saša Lukić,49,MID,Fulham,Brentford,Fulham
+294,250,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,41969,0,0,250,Kevin Mbabu,40,DEF,Fulham,Brentford,Fulham
+295,251,1,Man Utd,2,False,2024-08-16T19:00:00Z,1,0,1,77,0,0,1,0,0,0,0,0,0,0,0,10,9.4,20.4,28.0,5.8,1,0.11,0.00,0.11,1.57,60,0,598942,0,0,251,Rodrigo Muniz Carvalho,57,FWD,Fulham,Brentford,Fulham
+296,252,1,Man Utd,1,False,2024-08-16T19:00:00Z,1,0,1,12,0,0,0,1,0,0,0,0,0,0,0,3,0.2,0.3,0.0,0.1,0,0.00,0.00,0.00,0.87,55,0,42210,0,0,252,Raúl Jiménez,57,FWD,Fulham,Brentford,Fulham
+297,253,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1776,0,0,253,Tim Ream,45,DEF,Fulham,Brentford,Fulham
+298,254,1,Man Utd,1,False,2024-08-16T19:00:00Z,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2.2,0.0,0.0,0.2,0,0.00,0.00,0.00,0.67,50,0,3660,0,0,254,Harrison Reed,48,MID,Fulham,Brentford,Fulham
+299,255,1,Man Utd,2,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,15,29.2,1.5,2.0,3.3,1,0.00,0.01,0.01,2.43,45,0,774506,0,0,255,Antonee Robinson,47,DEF,Fulham,Brentford,Fulham
+300,256,1,Man Utd,1,False,2024-08-16T19:00:00Z,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.67,50,0,6640,0,0,256,Jay Stansfield,50,FWD,Fulham,Brentford,Fulham
+301,257,1,Man Utd,2,False,2024-08-16T19:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,7,10.0,1.2,14.0,2.5,1,0.09,0.00,0.09,2.43,45,0,10690,0,0,257,Kenny Tete,45,DEF,Fulham,Brentford,Fulham
+302,258,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,53449,0,0,258,Carlos Vinícius Alves Morais,50,FWD,Fulham,Brentford,Fulham
+303,259,1,Man Utd,1,False,2024-08-16T19:00:00Z,1,0,1,12,0,0,0,1,0,0,0,0,0,0,0,4,0.2,3.9,4.0,0.8,0,0.00,0.01,0.01,0.87,55,0,16297,0,0,259,Harry Wilson,53,MID,Fulham,Brentford,Fulham
+304,579,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,18879,0,0,579,Ryan Sessegnon,43,DEF,Fulham,Brentford,Fulham
+305,586,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4853,0,0,586,Jorge Cuenca Barreno,44,DEF,Fulham,Brentford,Fulham
+306,604,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3797,0,0,604,Josh King,45,MID,Fulham,Brentford,Fulham
+307,605,1,Man Utd,0,False,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1323,0,0,605,Martial Godo,45,MID,Fulham,Brentford,Fulham
+308,622,15,Leicester,0,True,2024-08-24T14:00:00Z,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,424,685,466,42,622,Sander Berge,50,MID,Fulham,Brentford,Fulham
+309,260,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,16,0,0,0,0,0,0,0,0,0,0,0,2,2.0,0.0,2.0,0.4,0,0.00,0.00,0.00,0.58,50,0,32399,0,0,260,Ali Al-Hamadi,49,FWD,Ipswich,Leicester,Ipswich
+310,261,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,4342,0,0,261,Elkan Baggott,40,DEF,Ipswich,Leicester,Ipswich
+311,262,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1380,0,0,262,Nathan Broadhead,49,MID,Ipswich,Leicester,Ipswich
+312,263,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,31764,0,0,263,Cameron Burgess,39,DEF,Ipswich,Leicester,Ipswich
+313,264,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,56,0,0,0,0,0,0,0,1,0,0,0,-2,0.0,1.8,2.0,0.0,1,0.00,0.00,0.00,0.46,50,0,8811,0,0,264,Wes Burns,49,MID,Ipswich,Leicester,Ipswich
+314,265,4,Liverpool,2,True,2024-08-17T11:30:00Z,0,2,1,64,0,0,0,1,0,0,0,0,0,0,0,12,4.2,2.5,2.0,0.9,1,0.00,0.01,0.01,1.45,55,0,22047,0,0,265,Conor Chaplin,52,MID,Ipswich,Leicester,Ipswich
+315,266,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,3114,0,0,266,Harry Clarke,40,DEF,Ipswich,Leicester,Ipswich
+316,267,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,-1,14.8,6.1,0.0,2.1,1,0.00,0.02,0.02,2.65,45,0,155392,0,0,267,Leif Davis,45,DEF,Ipswich,Leicester,Ipswich
+317,268,4,Liverpool,2,True,2024-08-17T11:30:00Z,0,2,1,73,0,0,0,2,0,0,0,0,0,0,0,8,6.4,20.7,8.0,3.5,1,0.00,0.00,0.00,2.07,55,0,35272,0,0,268,Liam Delap,57,FWD,Ipswich,Leicester,Ipswich
+318,269,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,15461,0,0,269,George Edmundson,40,DEF,Ipswich,Leicester,Ipswich
+319,270,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,12,26.2,0.8,22.0,4.9,1,0.10,0.00,0.10,2.65,40,0,48563,0,0,270,Jacob Greaves,41,DEF,Ipswich,Leicester,Ipswich
+320,271,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,25,0,0,0,1,0,0,0,0,0,0,0,1,5.4,1.6,4.0,1.1,0,0.00,0.03,0.03,1.21,50,0,2261,0,0,271,Marcus Myers-Harness,49,MID,Ipswich,Leicester,Ipswich
+321,272,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,2030,0,0,272,George Hirst,54,FWD,Ipswich,Leicester,Ipswich
+322,273,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4842,0,0,273,Cameron Humphreys,45,MID,Ipswich,Leicester,Ipswich
+323,274,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,90,0,0,0,2,0,0,0,1,0,0,0,11,7.2,1.8,18.0,2.7,1,0.27,0.02,0.29,2.65,55,0,51791,0,0,274,Omari Giraud-Hutchinson,53,MID,Ipswich,Leicester,Ipswich
+324,275,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,33,0,0,0,2,0,0,0,0,0,0,0,-5,11.0,0.0,0.0,1.1,0,0.00,0.00,0.00,2.19,40,0,337620,0,0,275,Ben Johnson,40,DEF,Ipswich,Leicester,Ipswich
+325,276,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,179213,0,0,276,Freddie Ladapo,45,FWD,Ipswich,Leicester,Ipswich
+326,277,4,Liverpool,2,True,2024-08-17T11:30:00Z,0,2,1,64,0,0,0,1,0,0,0,0,0,0,0,8,10.8,1.3,0.0,1.2,1,0.00,0.00,0.00,1.45,45,0,23647,0,0,277,Massimo Luongo,45,MID,Ipswich,Leicester,Ipswich
+327,278,4,Liverpool,2,True,2024-08-17T11:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,0,0,14,16.2,15.9,2.0,3.4,1,0.00,0.08,0.08,2.65,50,0,16799,0,0,278,Sam Morsy,49,MID,Ipswich,Leicester,Ipswich
+328,279,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,1045,0,0,279,Corrie Ndaba,40,DEF,Ipswich,Leicester,Ipswich
+329,280,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,78508,0,0,280,Cieran Slicker,40,GKP,Ipswich,Leicester,Ipswich
+330,281,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,25,0,0,0,1,0,0,0,0,0,0,0,3,3.2,0.9,2.0,0.6,0,0.02,0.01,0.03,1.21,50,0,2848,0,0,281,Jack Taylor,48,MID,Ipswich,Leicester,Ipswich
+331,282,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,73,0,0,0,2,0,0,0,0,0,0,0,1,7.8,0.4,4.0,1.2,1,0.07,0.00,0.07,2.07,40,0,100603,0,0,282,Axel Tuanzebe,40,DEF,Ipswich,Leicester,Ipswich
+332,283,4,Liverpool,2,True,2024-08-17T11:30:00Z,0,2,1,90,0,0,0,2,0,0,0,0,0,3,0,9,28.2,0.0,0.0,2.8,1,0.00,0.00,0.00,2.65,45,0,15656,0,0,283,Christian Walton,44,GKP,Ipswich,Leicester,Ipswich
+333,284,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,90,0,0,0,2,0,0,0,1,0,0,0,7,27.2,0.3,2.0,3.0,1,0.00,0.00,0.00,2.65,40,0,108271,0,0,284,Luke Woolfenden,40,DEF,Ipswich,Leicester,Ipswich
+334,359,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9305,0,0,359,Kalvin Phillips,49,MID,Ipswich,Leicester,Ipswich
+335,568,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,39121,0,0,568,Arijanet Muric,44,GKP,Ipswich,Leicester,Ipswich
+336,583,4,Liverpool,0,True,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,33806,0,0,583,Conor Townsend,40,DEF,Ipswich,Leicester,Ipswich
+337,611,4,Liverpool,1,True,2024-08-17T11:30:00Z,0,2,1,16,0,0,0,0,0,0,0,0,0,0,0,2,3.4,10.3,0.0,1.4,0,0.00,0.02,0.02,0.58,60,0,10540,0,0,611,Sam Szmodics,58,MID,Ipswich,Leicester,Ipswich
+338,619,17,Man City,0,False,2024-08-24T14:00:00Z,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,402,741,450,48,619,Jens Cajuste,45,MID,Ipswich,Leicester,Ipswich
+339,630,25,Fulham,0,True,2024-08-31T14:00:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,1182,1733,1368,186,630,Dara O'Shea,40,DEF,Ipswich,Leicester,Ipswich
+340,631,25,Fulham,1,True,2024-08-31T14:00:00Z,1,1,3,9,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.3,6.0,0.4,0,0.08,0.00,0.08,0.04,55,929,1171,1032,103,631,Jack Clarke,55,MID,Ipswich,Leicester,Ipswich
+341,632,25,Fulham,2,True,2024-08-31T14:00:00Z,1,1,3,87,0,0,0,1,0,0,0,0,0,0,0,7,11.0,16.2,6.0,3.3,1,0.00,0.01,0.01,0.95,50,301,407,350,49,632,Chiedozie Ogbene,50,MID,Ipswich,Leicester,Ipswich
+342,117,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,78,0,0,0,1,0,0,0,0,0,0,0,13,11.4,19.9,0.0,3.1,1,0.00,0.19,0.19,0.98,50,0,8082,0,0,117,Facundo Buonanotte,51,MID,Ipswich,Leicester,Leicester
+343,192,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,20,0,0,0,1,0,0,0,1,0,0,0,-5,0.2,12.8,7.0,2.0,0,0.46,0.01,0.47,0.95,55,0,40324,0,0,192,Jordan Ayew,52,MID,Ipswich,Leicester,Leicester
+344,198,8,Brentford,1,False,2024-08-18T13:00:00Z,2,1,1,45,0,0,0,1,0,0,0,0,0,0,0,1,0.0,10.7,5.0,1.5,0,0.05,0.02,0.07,1.09,55,0,68403,0,0,198,Odsonne Edouard,53,FWD,Ipswich,Leicester,Leicester
+345,285,10,Spurs,1,True,2024-08-19T19:00:00Z,1,1,1,11,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.3,0.0,0.1,0,0.00,0.00,0.00,0.25,45,0,17951,0,0,285,Boubakary Soumaré,44,MID,Ipswich,Leicester,Leicester
+346,286,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,116261,0,0,286,Tom Cannon,45,FWD,Ipswich,Leicester,Leicester
+347,287,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,26479,0,0,287,Hamza Choudhury,44,MID,Ipswich,Leicester,Leicester
+348,288,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,24580,0,0,288,Conor Coady,40,DEF,Ipswich,Leicester,Leicester
+349,289,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,30123,0,0,289,Patson Daka,48,FWD,Ipswich,Leicester,Leicester
+350,290,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,85,0,0,0,1,0,0,0,0,0,0,0,2,4.4,2.8,4.0,1.1,1,0.06,0.01,0.07,1.04,55,0,13854,0,0,290,Bobby De Cordova-Reid,52,MID,Ipswich,Leicester,Leicester
+351,291,10,Spurs,1,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,1,0,0,0,7,15.4,0.3,0.0,1.6,1,0.00,0.00,0.00,1.23,40,0,616143,0,0,291,Wout Faes,42,DEF,Ipswich,Leicester,Leicester
+352,292,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4727,0,0,292,Michael Golding,44,MID,Ipswich,Leicester,Leicester
+353,293,10,Spurs,3,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,5,0,15,41.6,0.0,0.0,4.2,1,0.00,0.00,0.00,1.23,45,0,34105,0,0,293,Mads Hermansen,45,GKP,Ipswich,Leicester,Leicester
+354,294,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,65236,0,0,294,Daniel Iversen,40,GKP,Ipswich,Leicester,Leicester
+355,295,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,15,24.0,9.1,5.0,3.8,1,0.06,0.01,0.07,1.23,45,0,23101,0,0,295,James Justin,46,DEF,Ipswich,Leicester,Leicester
+356,296,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,9,22.2,8.9,0.0,3.1,1,0.00,0.03,0.03,1.23,45,0,9441,0,0,296,Victor Kristiansen,45,DEF,Ipswich,Leicester,Leicester
+357,297,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4212,0,0,297,Wanya Marçal-Madivádua,45,MID,Ipswich,Leicester,Leicester
+358,298,10,Spurs,1,True,2024-08-19T19:00:00Z,1,1,1,11,0,0,0,0,0,0,0,0,0,0,0,4,6.2,14.1,0.0,2.0,0,0.00,0.03,0.03,0.25,55,0,46533,0,0,298,Stephy Mavididi,53,MID,Ipswich,Leicester,Leicester
+359,299,10,Spurs,1,True,2024-08-19T19:00:00Z,1,1,1,4,0,0,0,0,0,0,0,0,0,0,0,3,4.2,0.1,4.0,0.8,0,0.02,0.00,0.02,0.19,50,0,3846,0,0,299,Kasey McAteer,48,MID,Ipswich,Leicester,Leicester
+360,300,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,14,24.0,1.1,23.0,4.8,1,0.07,0.01,0.08,1.23,50,0,12929,0,0,300,Wilfred Ndidi,50,MID,Ipswich,Leicester,Leicester
+361,301,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,17350,0,0,301,Caleb Okoli,40,DEF,Ipswich,Leicester,Leicester
+362,302,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,19824,0,0,302,Ricardo Barbosa Pereira,43,DEF,Ipswich,Leicester,Leicester
+363,303,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,2362,0,0,303,Harry Souttar,40,DEF,Ipswich,Leicester,Leicester
+364,304,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,4282,0,0,304,Jakub Stolarczyk,40,GKP,Ipswich,Leicester,Leicester
+365,305,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,51407,0,0,305,Luke Thomas,39,DEF,Ipswich,Leicester,Leicester
+366,306,10,Spurs,8,True,2024-08-19T19:00:00Z,1,1,1,78,1,0,0,1,0,0,0,0,0,0,2,33,40.4,0.1,54.0,9.5,1,0.80,0.00,0.80,0.98,55,0,119633,0,0,306,Jamie Vardy,57,FWD,Ipswich,Leicester,Leicester
+367,307,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,6,15.8,0.3,0.0,1.6,1,0.00,0.00,0.00,1.23,40,0,145212,0,0,307,Jannik Vestergaard,40,DEF,Ipswich,Leicester,Leicester
+368,308,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,227087,0,0,308,Danny Ward,40,GKP,Ipswich,Leicester,Leicester
+369,309,10,Spurs,2,True,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,17,18.6,15.9,0.0,3.5,1,0.00,0.03,0.03,1.23,45,0,1202141,0,0,309,Harry Winks,45,MID,Ipswich,Leicester,Leicester
+370,501,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3601,0,0,501,Oliver Skipp,49,MID,Ipswich,Leicester,Leicester
+371,570,10,Spurs,8,True,2024-08-19T19:00:00Z,1,1,1,90,0,1,0,1,0,0,0,0,0,0,3,37,45.0,32.5,2.0,8.0,1,0.00,0.60,0.60,1.23,55,0,29601,0,0,570,Abdul Fatawu,54,MID,Ipswich,Leicester,Leicester
+372,606,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4472,0,0,606,Will Alves,45,MID,Ipswich,Leicester,Leicester
+373,616,10,Spurs,0,True,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,616,Ben Nelson,40,DEF,Ipswich,Leicester,Leicester
+374,635,26,Aston Villa,1,True,2024-08-31T14:00:00Z,1,2,3,22,0,0,0,0,0,0,0,0,0,0,0,3,1.0,1.9,2.0,0.5,0,0.03,0.01,0.04,0.09,50,935,1272,1027,92,635,Bilal El Khannouss,49,MID,Ipswich,Leicester,Leicester
+375,310,4,Ipswich,7,False,2024-08-17T11:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,2,1,28,18.4,0.0,0.0,1.8,1,0.00,0.00,0.00,0.45,55,0,892671,0,0,310,Alisson Ramses Becker,54,GKP,Liverpool,Brighton,Liverpool
+376,311,4,Ipswich,8,False,2024-08-17T11:30:00Z,0,2,1,76,0,0,1,0,0,0,0,0,0,0,2,31,9.0,43.7,3.0,5.6,1,0.06,1.00,1.06,0.41,70,0,2560092,0,0,311,Trent Alexander-Arnold,71,DEF,Liverpool,Brighton,Liverpool
+377,312,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,16261,0,0,312,Stefan Bajčetić Maquieira,45,MID,Liverpool,Brighton,Liverpool
+378,313,4,Ipswich,1,False,2024-08-17T11:30:00Z,0,2,1,13,0,0,0,0,0,0,0,0,0,0,0,3,7.4,1.9,40.0,4.9,0,0.24,0.02,0.26,0.04,50,0,54579,0,0,313,Conor Bradley,47,DEF,Liverpool,Brighton,Liverpool
+379,315,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5545,0,0,315,Bobby Clark,45,MID,Liverpool,Brighton,Liverpool
+380,316,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,75,0,511713,0,0,316,Darwin Núñez Ribeiro,71,FWD,Liverpool,Brighton,Liverpool
+381,317,4,Ipswich,8,False,2024-08-17T11:30:00Z,0,2,1,78,1,0,1,0,0,0,0,0,0,0,0,24,36.8,4.9,41.0,8.3,1,0.95,0.04,0.99,0.41,75,0,1433531,0,0,317,Diogo Teixeira da Silva,73,MID,Liverpool,Brighton,Liverpool
+382,318,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5062,0,0,318,Ben Doak,45,MID,Liverpool,Brighton,Liverpool
+383,319,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,105562,0,0,319,Harvey Elliott,52,MID,Liverpool,Brighton,Liverpool
+384,320,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,17472,0,0,320,Endo Wataru,47,MID,Liverpool,Brighton,Liverpool
+385,321,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,11,0,0,0,0,0,0,0,1,0,0,0,-1,0.0,1.8,6.0,0.8,0,0.00,0.00,0.00,0.04,75,0,367195,0,0,321,Cody Gakpo,71,FWD,Liverpool,Brighton,Liverpool
+386,322,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,51959,0,0,322,Joe Gomez,48,DEF,Liverpool,Brighton,Liverpool
+387,323,4,Ipswich,3,False,2024-08-17T11:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,6,6.2,10.4,0.0,1.7,1,0.00,0.39,0.39,0.45,50,0,11117,0,0,323,Ryan Gravenberch,50,MID,Liverpool,Brighton,Liverpool
+388,324,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,9756,0,0,324,Curtis Jones,53,MID,Liverpool,Brighton,Liverpool
+389,325,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,25958,0,0,325,Caoimhin Kelleher,44,GKP,Liverpool,Brighton,Liverpool
+390,326,4,Ipswich,1,False,2024-08-17T11:30:00Z,0,2,1,45,0,0,0,0,0,0,0,0,0,0,0,12,14.2,0.3,0.0,1.5,0,0.00,0.00,0.00,0.15,50,0,151453,0,0,326,Ibrahima Konaté,53,DEF,Liverpool,Brighton,Liverpool
+391,327,4,Ipswich,3,False,2024-08-17T11:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,13,9.6,37.1,31.0,7.8,1,0.46,0.38,0.84,0.45,75,0,745699,0,0,327,Luis Díaz,79,MID,Liverpool,Brighton,Liverpool
+392,328,4,Ipswich,14,False,2024-08-17T11:30:00Z,0,2,1,90,1,1,1,0,0,0,0,0,0,0,3,38,58.0,24.4,70.0,15.2,1,0.70,0.15,0.85,0.45,125,0,2894604,0,0,328,Mohamed Salah,126,MID,Liverpool,Brighton,Liverpool
+393,329,4,Ipswich,3,False,2024-08-17T11:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,7,2.6,9.3,7.0,1.9,1,0.10,0.06,0.16,0.45,65,0,222591,0,0,329,Alexis Mac Allister,62,MID,Liverpool,Brighton,Liverpool
+394,330,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3147,0,0,330,James McConnell,44,MID,Liverpool,Brighton,Liverpool
+395,331,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4200,0,0,331,Tyler Morton,44,MID,Liverpool,Brighton,Liverpool
+396,332,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,14539,0,0,332,Nathaniel Phillips,40,DEF,Liverpool,Brighton,Liverpool
+397,333,4,Ipswich,1,False,2024-08-17T11:30:00Z,0,2,1,45,0,0,0,0,0,0,0,0,0,0,0,7,15.8,0.5,0.0,1.6,1,0.00,0.00,0.00,0.31,45,0,567784,0,0,333,Jarell Quansah,40,DEF,Liverpool,Brighton,Liverpool
+398,334,4,Ipswich,0,False,2024-08-17T11:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,15921,0,0,334,Rhys Williams,40,DEF,Liverpool,Brighton,Liverpool
+399,335,4,Ipswich,6,False,2024-08-17T11:30:00Z,0,2,1,78,0,0,1,0,0,0,0,0,0,0,0,24,12.0,17.1,4.0,3.3,1,0.00,0.13,0.13,0.41,60,0,392551,0,0,335,Andrew Robertson,60,DEF,Liverpool,Brighton,Liverpool
+400,336,4,Ipswich,7,False,2024-08-17T11:30:00Z,0,2,1,90,0,1,1,0,0,0,0,0,0,0,1,28,10.4,41.2,15.0,6.7,1,0.15,0.24,0.39,0.45,65,0,170256,0,0,336,Dominik Szoboszlai,64,MID,Liverpool,Brighton,Liverpool
+401,337,4,Ipswich,1,False,2024-08-17T11:30:00Z,0,2,1,11,0,0,0,0,0,0,0,0,0,0,0,3,1.4,1.2,0.0,0.3,0,0.00,0.01,0.01,0.04,50,0,40013,0,0,337,Konstantinos Tsimikas,46,DEF,Liverpool,Brighton,Liverpool
+402,339,4,Ipswich,6,False,2024-08-17T11:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,24,8.8,1.5,4.0,1.4,1,0.00,0.01,0.01,0.45,60,0,1021672,0,0,339,Virgil van Dijk,61,DEF,Liverpool,Brighton,Liverpool
+403,636,27,Man Utd,0,False,2024-09-01T15:00:00Z,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,70,8708,11351,9919,1211,636,Federico Chiesa,68,MID,Liverpool,Brighton,Liverpool
+404,660,46,Bournemouth,0,True,2024-09-21T14:00:00Z,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,660,Vítezslav Jaros,40,GKP,Liverpool,Brighton,Liverpool
+405,669,81,Arsenal,0,False,2024-10-27T16:30:00Z,2,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,669,Harvey Davies,40,GKP,Liverpool,Brighton,Liverpool
+406,340,9,Chelsea,6,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,28,16.2,1.6,0.0,1.8,1,0.00,0.01,0.01,1.01,55,0,377453,0,0,340,Manuel Akanji,55,DEF,Bournemouth,Man City,Man City
+407,341,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,231353,0,0,341,Nathan Aké,53,DEF,Bournemouth,Man City,Man City
+408,342,9,Chelsea,6,False,2024-08-18T15:30:00Z,0,2,1,90,0,1,1,0,0,0,0,0,0,0,0,26,32.0,38.1,30.0,10.0,1,0.13,0.20,0.33,1.01,65,0,372293,0,0,342,Bernardo Veiga de Carvalho e Silva,65,MID,Bournemouth,Man City,Man City
+409,343,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,31717,0,0,343,Oscar Bobb,47,MID,Bournemouth,Man City,Man City
+410,344,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,14823,0,0,344,Scott Carson,40,GKP,Bournemouth,Man City,Man City
+411,345,9,Chelsea,3,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,14,5.0,15.3,4.0,2.4,1,0.07,0.32,0.39,1.01,95,0,627901,0,0,345,Kevin De Bruyne,94,MID,Bournemouth,Man City,Man City
+412,346,9,Chelsea,3,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,20,12.8,23.3,29.0,6.5,1,0.13,0.09,0.22,1.01,65,0,280527,0,0,346,Jérémy Doku,63,MID,Bournemouth,Man City,Man City
+413,347,9,Chelsea,8,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,3,1,30,19.6,0.0,0.0,2.0,1,0.00,0.00,0.00,1.01,55,0,557560,0,0,347,Ederson Santana de Moraes,55,GKP,Bournemouth,Man City,Man City
+414,348,9,Chelsea,1,False,2024-08-18T15:30:00Z,0,2,1,45,0,0,0,0,0,0,0,0,0,0,0,6,9.0,3.7,0.0,1.3,0,0.00,0.01,0.01,0.72,95,0,1585478,0,0,348,Phil Foden,93,MID,Bournemouth,Man City,Man City
+415,349,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,15825,0,0,349,Jack Grealish,64,MID,Bournemouth,Man City,Man City
+416,350,9,Chelsea,7,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,1,30,23.2,3.3,5.0,3.2,1,0.03,0.02,0.05,1.01,60,0,2793191,0,0,350,Joško Gvardiol,62,DEF,Bournemouth,Man City,Man City
+417,351,9,Chelsea,7,False,2024-08-18T15:30:00Z,0,2,1,90,1,0,1,0,0,0,0,1,0,0,2,31,36.4,0.6,38.0,7.5,1,0.28,0.00,0.28,1.01,150,0,4408007,0,0,351,Erling Haaland,154,FWD,Bournemouth,Man City,Man City
+418,352,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,70,0,39036,0,0,352,Julián Álvarez,70,FWD,Bournemouth,Man City,Man City
+419,353,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,76789,0,0,353,João Cavaco Cancelo,53,DEF,Bournemouth,Man City,Man City
+420,354,9,Chelsea,11,False,2024-08-18T15:30:00Z,0,2,1,90,1,0,1,0,0,0,0,0,0,0,3,36,55.6,4.9,9.0,7.0,1,0.13,0.02,0.15,1.01,55,0,19927,0,0,354,Mateo Kovačić,56,MID,Bournemouth,Man City,Man City
+421,355,9,Chelsea,6,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,22,15.0,3.3,8.0,2.6,1,0.00,0.01,0.01,1.01,45,0,40016,0,0,355,Rico Lewis,48,DEF,Bournemouth,Man City,Man City
+422,356,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3409,0,0,356,Matheus Luiz Nunes,49,MID,Bournemouth,Man City,Man City
+423,357,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,7920,0,0,357,James McAtee,47,MID,Bournemouth,Man City,Man City
+424,358,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,77703,0,0,358,Stefan Ortega Moreno,53,GKP,Bournemouth,Man City,Man City
+425,360,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,65,0,443257,0,0,360,Rodrigo 'Rodri' Hernandez,63,MID,Bournemouth,Man City,Man City
+426,361,9,Chelsea,6,False,2024-08-18T15:30:00Z,0,2,1,90,0,0,1,0,0,0,0,0,0,0,0,27,14.2,0.5,0.0,1.5,1,0.00,0.00,0.00,1.01,55,0,293835,0,0,361,Rúben Gato Alves Dias,55,DEF,Bournemouth,Man City,Man City
+427,362,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,195172,0,0,362,John Stones,53,DEF,Bournemouth,Man City,Man City
+428,363,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,838154,0,0,363,Kyle Walker,53,DEF,Bournemouth,Man City,Man City
+429,571,9,Chelsea,1,False,2024-08-18T15:30:00Z,0,2,1,45,0,0,0,0,0,0,0,0,0,0,0,8,11.6,36.4,4.0,5.2,1,0.00,0.16,0.16,0.30,65,0,37980,0,0,571,Sávio 'Savinho' Moreira de Oliveira,65,MID,Bournemouth,Man City,Man City
+430,607,9,Chelsea,0,False,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,576,0,0,607,Nico O'Reilly,50,MID,Bournemouth,Man City,Man City
+431,625,17,Ipswich,1,True,2024-08-24T14:00:00Z,4,1,2,19,0,0,0,0,0,0,0,0,0,0,0,2,0.0,4.1,4.0,0.8,0,0.00,0.05,0.05,0.00,65,5879,8404,6488,609,625,Ilkay Gündogan,65,MID,Bournemouth,Man City,Man City
+432,626,17,Ipswich,0,True,2024-08-24T14:00:00Z,4,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,626,Issa Kaboré,45,DEF,Bournemouth,Man City,Man City
+433,364,1,Fulham,3,True,2024-08-16T19:00:00Z,1,0,1,60,0,0,1,0,0,0,0,0,0,0,0,11,7.4,19.1,6.0,3.3,1,0.00,0.13,0.13,0.21,50,0,313496,0,0,364,Amad Diallo,49,MID,Man Utd,Chelsea,Man Utd
+434,365,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,21896,0,0,365,Antony Matheus dos Santos,57,MID,Man Utd,Chelsea,Man Utd
+435,366,1,Fulham,3,True,2024-08-16T19:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,0,10,15.0,8.3,49.0,7.2,1,1.19,0.03,1.22,0.44,85,0,1728175,0,0,366,Bruno Borges Fernandes,82,MID,Man Utd,Chelsea,Man Utd
+436,367,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,9227,0,0,367,Altay Bayindir,44,GKP,Man Utd,Chelsea,Man Utd
+437,368,1,Fulham,3,True,2024-08-16T19:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,0,19,26.8,39.9,13.0,8.0,1,0.16,0.50,0.66,0.44,50,0,39317,0,0,368,Carlos Henrique Casimiro,48,MID,Man Utd,Chelsea,Man Utd
+438,369,1,Fulham,7,True,2024-08-16T19:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,1,26,13.4,4.8,0.0,1.8,1,0.00,0.02,0.02,0.44,50,0,701512,0,0,369,Diogo Dalot Teixeira,51,DEF,Man Utd,Chelsea,Man Utd
+439,370,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,17513,0,0,370,Christian Eriksen,54,MID,Man Utd,Chelsea,Man Utd
+440,371,1,Fulham,1,True,2024-08-16T19:00:00Z,1,0,1,9,0,0,0,0,0,0,0,0,0,0,0,2,1.4,0.0,0.0,0.1,0,0.00,0.00,0.00,0.06,45,0,11027,0,0,371,Jonny Evans,44,DEF,Man Utd,Chelsea,Man Utd
+441,372,1,Fulham,4,True,2024-08-16T19:00:00Z,1,0,1,29,0,1,0,0,0,0,0,0,0,0,0,11,21.2,25.0,9.0,5.5,0,0.68,0.09,0.77,0.23,65,0,1548926,0,0,372,Alejandro Garnacho,62,MID,Man Utd,Chelsea,Man Utd
+442,373,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,11598,0,0,373,Hannibal Mejbri,45,MID,Man Utd,Chelsea,Man Utd
+443,374,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,20061,0,0,374,Tom Heaton,40,GKP,Man Utd,Chelsea,Man Utd
+444,375,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,70,0,63276,0,0,375,Rasmus Højlund,69,FWD,Man Utd,Chelsea,Man Utd
+445,376,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,17901,0,0,376,Victor Lindelöf,43,DEF,Man Utd,Chelsea,Man Utd
+446,377,1,Fulham,5,True,2024-08-16T19:00:00Z,1,0,1,80,0,0,1,0,0,0,0,1,0,0,0,22,19.6,1.6,0.0,2.1,1,0.00,0.01,0.01,0.38,50,0,39835,0,0,377,Harry Maguire,49,DEF,Man Utd,Chelsea,Man Utd
+447,378,1,Fulham,3,True,2024-08-16T19:00:00Z,1,0,1,83,0,0,1,0,0,0,0,0,0,0,0,21,12.0,3.7,1.0,1.7,1,0.03,0.01,0.04,0.38,55,0,533586,0,0,378,Kobbie Mainoo,52,MID,Man Utd,Chelsea,Man Utd
+448,379,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1453,0,0,379,Tyrell Malacia,44,DEF,Man Utd,Chelsea,Man Utd
+449,380,1,Fulham,7,True,2024-08-16T19:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,1,26,19.4,11.9,0.0,3.1,1,0.00,0.02,0.02,0.44,45,0,403535,0,0,380,Lisandro Martínez,45,DEF,Man Utd,Chelsea,Man Utd
+450,381,1,Fulham,1,True,2024-08-16T19:00:00Z,1,0,1,6,0,0,0,0,0,0,0,0,0,0,0,3,0.6,0.1,0.0,0.1,0,0.00,0.00,0.00,0.06,50,0,93204,0,0,381,Scott McTominay,49,MID,Man Utd,Chelsea,Man Utd
+451,382,1,Fulham,2,True,2024-08-16T19:00:00Z,1,0,1,60,0,0,1,0,0,0,0,1,0,0,0,-1,10.2,22.8,25.0,5.8,1,0.30,0.03,0.33,0.21,65,0,22295,0,0,382,Mason Mount,63,MID,Man Utd,Chelsea,Man Utd
+452,383,1,Fulham,6,True,2024-08-16T19:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,2,0,25,16.8,0.0,0.0,1.7,1,0.00,0.00,0.00,0.44,50,0,517448,0,0,383,André Onana,50,GKP,Man Utd,Chelsea,Man Utd
+453,384,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,2174,0,0,384,Facundo Pellistri Rebollo,50,MID,Man Utd,Chelsea,Man Utd
+454,385,1,Fulham,3,True,2024-08-16T19:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,0,5,4.6,14.8,8.0,2.7,1,0.00,0.11,0.11,0.44,70,0,410469,0,0,385,Marcus Rashford,69,MID,Man Utd,Chelsea,Man Utd
+455,387,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,74935,0,0,387,Luke Shaw,49,DEF,Man Utd,Chelsea,Man Utd
+456,389,1,Fulham,8,True,2024-08-16T19:00:00Z,1,0,1,29,1,0,0,0,0,0,0,0,0,0,3,33,33.2,1.8,17.0,5.2,0,0.07,0.00,0.07,0.23,70,0,172194,0,0,389,Joshua Zirkzee,67,FWD,Man Utd,Chelsea,Man Utd
+457,572,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,19850,0,0,572,Leny Yoro,43,DEF,Man Utd,Chelsea,Man Utd
+458,593,1,Fulham,1,True,2024-08-16T19:00:00Z,1,0,1,9,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.0,0.0,0.0,0,0.00,0.00,0.00,0.06,50,0,314129,0,0,593,Matthijs de Ligt,50,DEF,Man Utd,Chelsea,Man Utd
+459,594,1,Fulham,8,True,2024-08-16T19:00:00Z,1,0,1,80,0,0,1,0,0,0,0,0,0,0,2,32,14.0,2.4,0.0,1.6,1,0.00,0.01,0.01,0.38,45,0,204143,0,0,594,Noussair Mazraoui,46,DEF,Man Utd,Chelsea,Man Utd
+460,613,1,Fulham,0,True,2024-08-16T19:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,613,Toby Collyer,45,MID,Man Utd,Chelsea,Man Utd
+461,648,27,Liverpool,0,True,2024-09-01T15:00:00Z,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,648,Ethan Wheatley,45,FWD,Man Utd,Chelsea,Man Utd
+462,652,38,Southampton,1,False,2024-09-14T11:30:00Z,0,3,4,17,0,0,0,0,0,0,0,0,0,0,0,8,4.6,3.1,0.0,0.8,0,0.00,0.00,0.00,0.00,50,6090,7689,7055,965,652,Manuel Ugarte,49,MID,Man Utd,Chelsea,Man Utd
+463,667,75,Brentford,0,True,2024-10-19T14:00:00Z,2,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,0,0,0,667,Jack Fletcher,45,MID,Man Utd,Chelsea,Man Utd
+464,670,90,West Ham,0,False,2024-10-27T14:00:00Z,2,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,670,Harry Amass,40,DEF,Man Utd,Chelsea,Man Utd
+465,390,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,69252,0,0,390,Alex Murphy,40,DEF,Newcastle,Arsenal,Newcastle
+466,391,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,84045,0,0,391,Miguel Almirón Rejala,56,MID,Newcastle,Arsenal,Newcastle
+467,392,5,Southampton,1,True,2024-08-17T14:00:00Z,1,0,1,20,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.44,65,0,42382,0,0,392,Harvey Barnes,65,MID,Newcastle,Arsenal,Newcastle
+468,393,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1632,0,0,393,Sven Botman,44,DEF,Newcastle,Arsenal,Newcastle
+469,394,5,Southampton,3,True,2024-08-17T14:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,0,14,21.2,1.8,0.0,2.3,1,0.00,0.04,0.04,1.77,65,0,297465,0,0,394,Bruno Guimarães Rodriguez Moura,62,MID,Newcastle,Arsenal,Newcastle
+470,395,5,Southampton,5,True,2024-08-17T14:00:00Z,1,0,1,90,0,0,1,0,0,0,0,1,0,0,0,18,17.4,0.0,0.0,1.7,1,0.00,0.00,0.00,1.77,45,0,1462975,0,0,395,Dan Burn,44,DEF,Newcastle,Arsenal,Newcastle
+471,396,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,114645,0,0,396,Martin Dúbravka,43,GKP,Newcastle,Arsenal,Newcastle
+472,398,5,Southampton,3,True,2024-08-17T14:00:00Z,1,0,1,69,0,0,1,0,0,0,0,0,0,0,0,12,2.4,12.8,2.0,1.7,1,0.00,0.02,0.02,1.33,75,0,2328887,0,0,398,Anthony Gordon,72,MID,Newcastle,Arsenal,Newcastle
+473,399,5,Southampton,5,True,2024-08-17T14:00:00Z,1,0,1,69,0,0,1,0,0,0,0,1,0,0,0,17,14.2,14.7,2.0,3.1,1,0.00,0.02,0.02,1.33,45,0,431511,0,0,399,Lewis Hall,43,DEF,Newcastle,Arsenal,Newcastle
+474,400,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5826,0,0,400,Isaac Hayden,45,MID,Newcastle,Arsenal,Newcastle
+475,401,5,Southampton,5,True,2024-08-17T14:00:00Z,1,0,1,90,0,1,1,0,0,0,0,0,0,0,0,22,25.6,10.8,6.0,4.2,1,0.00,0.08,0.08,1.77,85,0,5199017,0,0,401,Alexander Isak,83,FWD,Newcastle,Arsenal,Newcastle
+476,402,5,Southampton,1,True,2024-08-17T14:00:00Z,1,0,1,29,0,0,0,0,0,0,0,0,0,0,0,9,5.0,0.9,0.0,0.6,1,0.00,0.01,0.01,0.20,55,0,193533,0,0,402,Jacob Murphy,51,MID,Newcastle,Arsenal,Newcastle
+477,403,5,Southampton,11,True,2024-08-17T14:00:00Z,1,0,1,90,1,0,1,0,0,0,0,0,0,0,3,34,53.8,1.2,24.0,7.9,1,0.22,0.01,0.23,1.77,60,0,35765,0,0,403,Joelinton Cássio Apolinário de Lira,60,MID,Newcastle,Arsenal,Newcastle
+478,404,5,Southampton,1,True,2024-08-17T14:00:00Z,1,0,1,20,0,0,0,0,0,0,0,0,0,0,0,4,9.2,0.0,0.0,0.9,0,0.00,0.00,0.00,0.44,45,0,12480,0,0,404,Lloyd Kelly,44,DEF,Newcastle,Arsenal,Newcastle
+479,405,5,Southampton,6,True,2024-08-17T14:00:00Z,1,0,1,60,0,0,1,0,0,0,0,0,0,0,0,21,16.0,0.0,6.0,2.2,0,0.00,0.00,0.00,1.58,45,0,6327,0,0,405,Emil Krafth,44,DEF,Newcastle,Arsenal,Newcastle
+480,406,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3311,0,0,406,Garang Kuol,45,MID,Newcastle,Arsenal,Newcastle
+481,407,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,399,0,0,407,Jamaal Lascelles,45,DEF,Newcastle,Arsenal,Newcastle
+482,408,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,35029,0,0,408,Jamal Lewis,40,DEF,Newcastle,Arsenal,Newcastle
+483,409,5,Southampton,7,True,2024-08-17T14:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,1,25,20.0,0.6,0.0,2.1,1,0.00,0.00,0.00,1.77,45,0,100126,0,0,409,Tino Livramento,45,DEF,Newcastle,Arsenal,Newcastle
+484,410,5,Southampton,3,True,2024-08-17T14:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,0,0,11,9.4,1.3,4.0,1.5,1,0.00,0.01,0.01,1.77,50,0,103817,0,0,410,Sean Longstaff,47,MID,Newcastle,Arsenal,Newcastle
+485,411,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,232,0,0,411,Lewis Miley,50,MID,Newcastle,Arsenal,Newcastle
+486,412,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,12498,0,0,412,Odysseas Vlachodimos,44,GKP,Newcastle,Arsenal,Newcastle
+487,413,5,Southampton,9,True,2024-08-17T14:00:00Z,1,0,1,90,0,0,1,0,0,0,0,0,0,3,2,27,25.2,0.0,0.0,2.5,1,0.00,0.00,0.00,1.77,50,0,510361,0,0,413,Nick Pope,50,GKP,Newcastle,Arsenal,Newcastle
+488,414,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,23963,0,0,414,John Ruddy,40,GKP,Newcastle,Arsenal,Newcastle
+489,415,5,Southampton,-2,True,2024-08-17T14:00:00Z,1,0,1,27,0,0,0,0,0,0,0,0,1,0,0,-8,0.0,0.3,5.0,0.1,1,0.04,0.00,0.04,0.20,55,0,198369,0,0,415,Fabian Schär,54,DEF,Newcastle,Arsenal,Newcastle
+490,416,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,39033,0,0,416,Matt Targett,40,DEF,Newcastle,Arsenal,Newcastle
+491,417,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,4653,0,0,417,Sandro Tonali,55,MID,Newcastle,Arsenal,Newcastle
+492,418,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,1193630,0,0,418,Kieran Trippier,56,DEF,Newcastle,Arsenal,Newcastle
+493,419,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,31223,0,0,419,Joe White,45,MID,Newcastle,Arsenal,Newcastle
+494,420,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,13992,0,0,420,Joe Willock,48,MID,Newcastle,Arsenal,Newcastle
+495,421,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,70,0,8597,0,0,421,Callum Wilson,69,FWD,Newcastle,Arsenal,Newcastle
+496,574,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,10005,0,0,574,Miodrag Pivaš,40,DEF,Newcastle,Arsenal,Newcastle
+497,590,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9145,0,0,590,William Osula,50,FWD,Newcastle,Arsenal,Newcastle
+498,26,7,West Ham,0,False,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,60127,0,0,26,Álex Moreno Lopera,44,DEF,Nott'm Forest,West Ham,Nott'm Forest
+499,422,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,53,0,0,0,0,0,0,0,0,0,0,0,4,5.2,2.1,1.0,0.8,1,0.02,0.02,0.04,0.55,45,0,112193,0,0,422,Ola Aina,45,DEF,Nott'm Forest,West Ham,Nott'm Forest
+500,423,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,18,0,0,0,1,0,0,0,0,0,0,0,4,5.4,1.5,8.0,1.5,0,0.00,0.01,0.01,0.59,50,0,14127,0,0,423,Elliot Anderson,50,MID,Nott'm Forest,West Ham,Nott'm Forest
+501,424,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,18,0,0,0,1,0,0,0,0,0,0,0,6,3.4,1.0,19.0,2.3,0,0.12,0.03,0.15,0.59,60,0,84610,0,0,424,Taiwo Awoniyi,56,FWD,Nott'm Forest,West Ham,Nott'm Forest
+502,425,6,Bournemouth,2,True,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,10,32.0,0.1,17.0,4.9,1,0.07,0.00,0.07,1.22,45,0,21461,0,0,425,Willy Boly,43,DEF,Nott'm Forest,West Ham,Nott'm Forest
+503,426,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5803,0,0,426,Josh Bowler,45,MID,Nott'm Forest,West Ham,Nott'm Forest
+504,427,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,33324,0,0,427,Carlos Miguel dos Santos Pereira,43,GKP,Nott'm Forest,West Ham,Nott'm Forest
+505,428,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,6089,0,0,428,Eric da Silva Moreira,45,MID,Nott'm Forest,West Ham,Nott'm Forest
+506,429,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,14,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0.1,0.0,0.0,1,0.00,0.00,0.00,0.28,50,0,5769,0,0,429,Danilo dos Santos de Oliveira,47,MID,Nott'm Forest,West Ham,Nott'm Forest
+507,430,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,21102,0,0,430,Emmanuel Dennis,49,FWD,Nott'm Forest,West Ham,Nott'm Forest
+508,431,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,36,0,0,0,1,0,0,0,0,0,0,0,3,6.2,5.7,4.0,1.6,0,0.00,0.09,0.09,0.67,50,0,3116,0,0,431,Nicolás Domínguez,48,MID,Nott'm Forest,West Ham,Nott'm Forest
+509,432,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,53,0,0,0,0,0,0,0,0,0,0,0,13,10.4,25.1,9.0,4.5,1,0.02,0.16,0.18,0.55,55,0,214240,0,0,432,Anthony Elanga,52,MID,Nott'm Forest,West Ham,Nott'm Forest
+510,433,6,Bournemouth,2,True,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,8,9.8,41.3,14.0,6.5,1,0.10,0.07,0.17,1.22,65,0,430423,0,0,433,Morgan Gibbs-White,63,MID,Nott'm Forest,West Ham,Nott'm Forest
+511,434,6,Bournemouth,3,True,2024-08-17T14:00:00Z,1,1,1,71,0,0,1,0,0,0,0,0,0,0,0,13,12.2,41.7,28.0,8.2,1,0.07,0.20,0.27,0.63,55,0,315296,0,0,434,Callum Hudson-Odoi,54,MID,Nott'm Forest,West Ham,Nott'm Forest
+512,435,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,4017,0,0,435,Alex Mighten,45,MID,Nott'm Forest,West Ham,Nott'm Forest
+513,436,6,Bournemouth,2,True,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,14,19.8,1.0,0.0,2.1,1,0.00,0.00,0.00,1.22,45,0,44981,0,0,436,Murillo Santiago Costa dos Santos,45,DEF,Nott'm Forest,West Ham,Nott'm Forest
+514,437,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,1,0,0,0,9,21.8,30.9,6.0,5.9,1,0.03,0.13,0.16,1.22,45,0,43912,0,0,437,Neco Williams,44,DEF,Nott'm Forest,West Ham,Nott'm Forest
+515,438,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5640,0,0,438,Omar Richards,45,DEF,Nott'm Forest,West Ham,Nott'm Forest
+516,439,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,205,0,0,439,Lewis O'Brien,50,MID,Nott'm Forest,West Ham,Nott'm Forest
+517,440,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,6608,0,0,440,Andrew Omobamidele,43,DEF,Nott'm Forest,West Ham,Nott'm Forest
+518,441,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,224,0,0,441,Jonathan Panzo,40,DEF,Nott'm Forest,West Ham,Nott'm Forest
+519,442,6,Bournemouth,2,True,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,13,14.8,2.5,4.0,2.1,1,0.00,0.01,0.01,1.22,45,0,185141,0,0,442,Ibrahim Sangaré,44,MID,Nott'm Forest,West Ham,Nott'm Forest
+520,443,6,Bournemouth,3,True,2024-08-17T14:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,3,0,13,23.8,0.0,0.0,2.4,1,0.00,0.00,0.00,1.22,45,0,100200,0,0,443,Matz Sels,46,GKP,Nott'm Forest,West Ham,Nott'm Forest
+521,444,6,Bournemouth,1,True,2024-08-17T14:00:00Z,1,1,1,36,0,0,0,1,0,0,0,0,0,0,0,0,9.6,3.0,6.0,1.9,0,0.02,0.01,0.03,0.67,45,0,7351,0,0,444,Harry Toffolo,43,DEF,Nott'm Forest,West Ham,Nott'm Forest
+522,446,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,130081,0,0,446,Hwang Ui-jo,45,FWD,Nott'm Forest,West Ham,Nott'm Forest
+523,447,6,Bournemouth,9,True,2024-08-17T14:00:00Z,1,1,1,71,1,0,1,0,0,0,0,0,0,0,3,30,32.2,5.7,21.0,5.9,1,0.71,0.02,0.73,0.63,60,0,482451,0,0,447,Chris Wood,64,FWD,Nott'm Forest,West Ham,Nott'm Forest
+524,448,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,5973,0,0,448,Joe Worrall,45,DEF,Nott'm Forest,West Ham,Nott'm Forest
+525,449,6,Bournemouth,7,True,2024-08-17T14:00:00Z,1,1,1,75,0,1,0,1,0,0,0,0,0,0,2,29,12.4,16.9,36.0,6.5,0,0.24,0.03,0.27,0.94,50,0,4944,0,0,449,Ryan Yates,49,MID,Nott'm Forest,West Ham,Nott'm Forest
+526,531,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,16,0,0,0,1,0,0,0,0,0,0,0,3,3.4,1.4,0.0,0.5,0,0.00,0.00,0.00,0.27,65,0,172416,0,0,531,James Ward-Prowse,62,MID,Nott'm Forest,West Ham,Nott'm Forest
+527,573,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,17842,0,0,573,Nikola Milenković,45,DEF,Nott'm Forest,West Ham,Nott'm Forest
+528,596,6,Bournemouth,0,True,2024-08-17T14:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,60,0,10205,0,0,596,João Pedro Ferreira Silva,59,MID,Nott'm Forest,West Ham,Nott'm Forest
+529,620,18,Southampton,0,False,2024-08-24T14:00:00Z,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,94,504,113,19,620,Ramón Sosa,55,MID,Nott'm Forest,West Ham,Nott'm Forest
+530,653,36,Liverpool,1,False,2024-09-14T14:00:00Z,0,1,4,9,0,0,0,0,0,0,0,0,0,0,0,4,3.0,0.0,0.0,0.3,0,0.00,0.00,0.00,0.09,45,76,447,107,31,653,Felipe Rodrigues da Silva,45,DEF,Nott'm Forest,West Ham,Nott'm Forest
+531,14,2,Wolves,0,True,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,68531,0,0,14,Aaron Ramsdale,44,GKP,Southampton,Everton,Southampton
+532,27,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,19,0,0,0,0,0,0,0,0,0,0,0,4,1.0,0.1,22.0,2.3,0,0.19,0.00,0.19,0.00,50,0,122810,1369,1511,27,Cameron Archer,50,FWD,Southampton,Everton,Southampton
+533,188,9,Man City,0,True,2024-08-18T15:30:00Z,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,28052,0,0,188,Lesley Ugochukwu,45,MID,Southampton,Everton,Southampton
+534,397,5,Southampton,0,True,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3106,0,0,397,Ryan Fraser,48,MID,Southampton,Everton,Southampton
+535,450,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,9,0,0,0,0,0,0,0,0,0,0,0,4,8.4,15.9,19.0,4.3,0,0.07,0.03,0.10,0.00,50,0,9504,0,0,450,Carlos Alcaraz Durán,49,MID,Southampton,Everton,Southampton
+536,451,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,9,0,0,0,0,0,0,0,0,0,0,0,4,4.0,15.0,6.0,2.5,0,0.02,0.13,0.15,0.00,45,0,8926,0,0,451,Samuel Amo-Ameyaw,45,MID,Southampton,Everton,Southampton
+537,452,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,69,0,0,0,1,0,0,0,0,0,0,0,18,14.8,27.9,9.0,5.2,1,0.05,0.44,0.49,0.25,50,0,4540,0,0,452,Joe Aribo,49,MID,Southampton,Everton,Southampton
+538,453,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,5,7.8,12.9,37.0,5.8,1,0.71,0.08,0.79,0.25,55,0,147689,0,0,453,Adam Armstrong,52,FWD,Southampton,Everton,Southampton
+539,454,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,28798,0,0,454,Gavin Bazunu,44,GKP,Southampton,Everton,Southampton
+540,455,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,80,0,0,0,1,0,0,0,0,0,0,0,13,18.4,12.7,2.0,3.3,1,0.00,0.03,0.03,0.25,40,0,96706,0,0,455,Jan Bednarek,40,DEF,Southampton,Everton,Southampton
+541,456,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,30004,0,0,456,Armel Bella-Kotchap,39,DEF,Southampton,Everton,Southampton
+542,457,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,13216,0,0,457,James Bree,40,DEF,Southampton,Everton,Southampton
+543,458,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,7613,0,0,458,Shea Charles,45,MID,Southampton,Everton,Southampton
+544,459,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,45,0,0,0,0,0,0,0,1,0,0,0,0,6.8,18.5,16.0,4.1,0,0.00,0.15,0.15,0.00,50,0,2424,0,0,459,Samuel Edozie,49,MID,Southampton,Everton,Southampton
+545,460,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,14950,0,0,460,Ronnie Edwards,39,DEF,Southampton,Everton,Southampton
+546,461,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,90,0,0,0,1,0,0,0,1,0,0,0,6,17.6,14.0,6.0,3.8,1,0.00,0.02,0.02,0.25,40,0,934150,0,0,461,Taylor Harwood-Bellis,41,DEF,Southampton,Everton,Southampton
+547,462,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,587,0,0,462,Kamaldeen Sulemana,50,MID,Southampton,Everton,Southampton
+548,463,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3466,0,0,463,Adam Lallana,50,MID,Southampton,Everton,Southampton
+549,464,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,7767,0,0,464,Juan Larios López,40,DEF,Southampton,Everton,Southampton
+550,465,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,23928,0,0,465,Mateusz Lis,40,GKP,Southampton,Everton,Southampton
+551,466,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,25648,0,0,466,Joe Lumley,40,GKP,Southampton,Everton,Southampton
+552,467,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,6978,0,0,467,Ryan Manning,43,DEF,Southampton,Everton,Southampton
+553,468,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,8265,0,0,468,Sékou Mara,50,FWD,Southampton,Everton,Southampton
+554,469,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,1,0.00,0.00,0.00,0.25,45,0,13740,0,0,469,Alex McCarthy,44,GKP,Southampton,Everton,Southampton
+555,470,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9474,0,0,470,Paul Onuachu,49,FWD,Southampton,Everton,Southampton
+556,471,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,13,4.8,7.7,28.0,4.1,1,0.31,0.25,0.56,0.25,50,0,4947,0,0,471,Will Smallbone,50,MID,Southampton,Everton,Southampton
+557,472,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,90,0,0,0,1,0,0,0,1,0,0,0,6,12.2,16.6,4.0,3.3,1,0.00,0.04,0.04,0.25,40,0,21269,0,0,472,Jack Stephens,40,DEF,Southampton,Everton,Southampton
+558,473,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,64653,0,0,473,Ross Stewart,46,FWD,Southampton,Everton,Southampton
+559,474,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,45,0,0,0,1,0,0,0,0,0,0,0,6,6.0,15.1,2.0,2.3,1,0.00,0.22,0.22,0.25,45,0,13339,0,0,474,Sugawara Yukinari,45,DEF,Southampton,Everton,Southampton
+560,475,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,514848,0,0,475,Charlie Taylor,39,DEF,Southampton,Everton,Southampton
+561,476,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,80,0,0,0,1,0,0,0,0,0,0,0,8,2.0,10.9,8.0,2.1,1,0.06,0.08,0.14,0.25,45,0,40395,0,0,476,Kyle Walker-Peters,44,DEF,Southampton,Everton,Southampton
+562,477,5,Newcastle,0,False,2024-08-17T14:00:00Z,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,101631,0,0,477,Nathan Wood-Gordon,40,DEF,Southampton,Everton,Southampton
+563,515,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,2853,0,0,515,Maxwel Cornet,48,MID,Southampton,Everton,Southampton
+564,518,5,Newcastle,2,False,2024-08-17T14:00:00Z,1,0,1,90,0,0,0,1,0,0,0,0,0,0,0,12,19.4,43.3,7.0,7.0,1,0.11,0.10,0.21,0.25,50,0,5433,0,0,518,Flynn Downes,48,MID,Southampton,Everton,Southampton
+565,584,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,70,0,0,0,1,0,0,0,1,0,0,0,-2,2.6,14.0,16.0,3.3,1,0.30,0.02,0.32,0.25,55,0,66244,0,0,584,Ben Brereton Díaz,51,MID,Southampton,Everton,Southampton
+566,608,5,Newcastle,1,False,2024-08-17T14:00:00Z,1,0,1,20,0,0,0,0,0,0,0,0,0,0,0,6,2.8,12.3,0.0,1.5,0,0.00,0.02,0.02,0.00,45,0,2073,0,0,608,Tyler Dibling,46,MID,Southampton,Everton,Southampton
+567,623,18,Nott'm Forest,1,True,2024-08-24T14:00:00Z,0,1,2,14,0,0,0,0,0,0,0,0,0,0,0,4,1.4,3.8,4.0,0.9,0,0.00,0.01,0.01,0.19,50,90,199,93,3,623,Mateus Gonçalo Espanha Fernandes,50,MID,Southampton,Everton,Southampton
+568,82,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,17,19.0,15.3,61.0,9.5,1,0.34,0.15,0.49,1.02,75,0,2587953,0,0,82,Dominic Solanke-Mitchell,77,FWD,Spurs,Aston Villa,Spurs
+569,478,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,41050,0,0,478,Ashley Phillips,40,DEF,Spurs,Aston Villa,Spurs
+570,479,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,33843,0,0,479,Brandon Austin,40,GKP,Spurs,Aston Villa,Spurs
+571,480,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,77,0,0,0,1,0,0,0,1,0,0,0,15,9.8,4.8,29.0,4.4,1,0.27,0.04,0.31,0.90,50,0,21555,0,0,480,Rodrigo Bentancur,50,MID,Spurs,Aston Villa,Spurs
+572,481,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,12,0,0,0,0,0,0,0,0,0,0,0,9,11.8,19.4,5.0,3.6,0,0.06,0.14,0.20,0.12,45,0,75912,0,0,481,Lucas Bergvall,45,MID,Spurs,Aston Villa,Spurs
+573,482,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,10961,0,0,482,Yves Bissouma,49,MID,Spurs,Aston Villa,Spurs
+574,483,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,267,0,0,483,Bryan Gil Salvatierra,50,MID,Spurs,Aston Villa,Spurs
+575,484,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,18554,0,0,484,Ben Davies,43,DEF,Spurs,Aston Villa,Spurs
+576,485,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,9576,0,0,485,Alfie Devine,45,MID,Spurs,Aston Villa,Spurs
+577,486,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,20787,0,0,486,Radu Drăgușin,43,DEF,Spurs,Aston Villa,Spurs
+578,487,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,3601,0,0,487,Emerson Leite de Souza Junior,45,DEF,Spurs,Aston Villa,Spurs
+579,488,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,21470,0,0,488,Fraser Forster,44,GKP,Spurs,Aston Villa,Spurs
+580,489,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,12,0,0,0,0,0,0,0,0,0,0,0,1,6.6,1.5,0.0,0.8,0,0.00,0.01,0.01,0.12,50,0,23217,0,0,489,Archie Gray,47,MID,Spurs,Aston Villa,Spurs
+581,490,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,824,0,0,490,Pierre-Emile Højbjerg,50,MID,Spurs,Aston Villa,Spurs
+582,491,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,77,0,0,0,1,0,0,0,0,0,0,0,8,13.6,14.4,31.0,5.9,1,0.12,0.08,0.20,0.90,65,0,64515,0,0,491,Brennan Johnson,67,MID,Spurs,Aston Villa,Spurs
+583,492,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,11,0,0,0,0,0,0,0,0,0,0,0,0,2.4,1.3,22.0,2.6,0,0.00,0.17,0.17,0.12,65,0,229933,0,0,492,Dejan Kulusevski,63,MID,Spurs,Aston Villa,Spurs
+584,493,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,8584,0,0,493,Giovani Lo Celso,49,MID,Spurs,Aston Villa,Spurs
+585,494,10,Leicester,5,False,2024-08-19T19:00:00Z,1,1,1,78,0,1,0,1,0,0,0,0,0,0,0,25,31.6,52.8,15.0,9.9,1,0.02,0.98,1.00,0.90,75,0,373759,0,0,494,James Maddison,76,MID,Spurs,Aston Villa,Spurs
+586,495,10,Leicester,9,False,2024-08-19T19:00:00Z,1,1,1,90,1,0,0,1,0,0,0,0,0,0,1,28,50.0,59.3,21.0,13.0,1,0.09,0.32,0.41,0.96,55,0,3078763,0,0,495,Pedro Porro,55,DEF,Spurs,Aston Villa,Spurs
+587,496,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,27926,0,0,496,Sergio Reguilón,43,DEF,Spurs,Aston Villa,Spurs
+588,497,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,-1,0.0,1.0,7.0,0.7,0,0.19,0.00,0.19,0.06,70,0,94269,0,0,497,Richarlison de Andrade,68,FWD,Spurs,Aston Villa,Spurs
+589,498,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,13,13.6,2.9,4.0,2.1,1,0.09,0.03,0.12,1.02,50,0,434560,0,0,498,Cristian Romero,51,DEF,Spurs,Aston Villa,Spurs
+590,499,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,77,0,0,0,1,0,0,0,0,0,0,0,12,7.0,15.6,6.0,2.9,1,0.01,0.04,0.05,0.90,50,0,23419,0,0,499,Pape Matar Sarr,49,MID,Spurs,Aston Villa,Spurs
+591,500,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,21142,0,0,500,Dane Scarlett,45,FWD,Spurs,Aston Villa,Spurs
+592,502,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,5690,0,0,502,Manor Solomon,54,MID,Spurs,Aston Villa,Spurs
+593,503,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,18,12.6,32.2,22.0,6.7,1,0.03,0.30,0.33,0.96,100,0,871012,0,0,503,Son Heung-min,99,MID,Spurs,Aston Villa,Spurs
+594,504,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1.8,1.1,0.0,0.3,0,0.00,0.00,0.00,0.06,45,0,8800,0,0,504,Djed Spence,44,DEF,Spurs,Aston Villa,Spurs
+595,505,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,2,15.6,7.8,10.0,3.3,1,0.00,0.06,0.06,1.02,50,0,331696,0,0,505,Destiny Udogie,49,DEF,Spurs,Aston Villa,Spurs
+596,506,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,0,0,12,15.0,3.3,0.0,1.8,1,0.00,0.02,0.02,1.02,45,0,578525,0,0,506,Micky van de Ven,47,DEF,Spurs,Aston Villa,Spurs
+597,507,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,1545,0,0,507,Alejo Véliz,50,FWD,Spurs,Aston Villa,Spurs
+598,508,10,Leicester,2,False,2024-08-19T19:00:00Z,1,1,1,90,0,0,0,1,0,0,0,0,0,2,0,16,26.0,0.0,0.0,2.6,1,0.00,0.00,0.00,1.02,50,0,355891,0,0,508,Guglielmo Vicario,50,GKP,Spurs,Aston Villa,Spurs
+599,509,10,Leicester,1,False,2024-08-19T19:00:00Z,1,1,1,12,0,0,0,0,0,0,0,0,0,0,0,3,2.2,5.8,4.0,1.2,0,0.00,0.02,0.02,0.12,65,0,25680,0,0,509,Timo Werner,62,MID,Spurs,Aston Villa,Spurs
+600,510,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,117595,0,0,510,Alfie Whiteman,40,GKP,Spurs,Aston Villa,Spurs
+601,609,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,17747,0,0,609,Will Lankshear,45,FWD,Spurs,Aston Villa,Spurs
+602,610,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,8413,0,0,610,Mikey Moore,45,MID,Spurs,Aston Villa,Spurs
+603,612,10,Leicester,0,False,2024-08-19T19:00:00Z,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,954,0,0,612,Wilson Odobert,53,MID,Spurs,Aston Villa,Spurs
+604,388,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,168413,0,0,388,Aaron Wan-Bissaka,44,DEF,Nott'm Forest,West Ham,West Ham
+605,511,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,9327,0,0,511,Edson Álvarez Velázquez,50,MID,Nott'm Forest,West Ham,West Ham
+606,512,7,Aston Villa,2,True,2024-08-17T16:30:00Z,1,2,1,72,0,0,0,1,0,0,0,0,0,0,0,4,0.0,0.4,11.0,0.8,1,0.15,0.00,0.15,1.76,55,0,121442,0,0,512,Michail Antonio,54,FWD,Nott'm Forest,West Ham,West Ham
+607,513,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,2,0,0,0,0,0,1,0,5,10.0,0.0,0.0,1.0,1,0.00,0.00,0.00,2.03,45,0,858916,0,0,513,Alphonse Areola,44,GKP,Nott'm Forest,West Ham,West Ham
+608,514,7,Aston Villa,2,True,2024-08-17T16:30:00Z,1,2,1,72,0,0,0,1,0,0,0,0,0,0,0,3,4.6,16.8,2.0,2.3,1,0.00,0.07,0.07,1.76,75,0,647171,0,0,514,Jarrod Bowen,74,MID,Nott'm Forest,West Ham,West Ham
+609,516,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,84,0,0,0,2,0,0,0,0,0,0,0,-1,18.0,15.2,0.0,3.3,1,0.00,0.10,0.10,1.96,45,0,76370,0,0,516,Vladimír Coufal,43,DEF,Nott'm Forest,West Ham,West Ham
+610,517,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,215475,0,0,517,Aaron Cresswell,40,DEF,Nott'm Forest,West Ham,West Ham
+611,519,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,10475,0,0,519,George Earthy,45,MID,Nott'm Forest,West Ham,West Ham
+612,520,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,2,0,0,0,0,0,0,0,5,6.6,2.5,17.0,2.6,1,0.04,0.02,0.06,2.03,45,0,60284,0,0,520,Emerson Palmieri dos Santos,44,DEF,Nott'm Forest,West Ham,West Ham
+613,521,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,1150090,0,0,521,Łukasz Fabiański,40,GKP,Nott'm Forest,West Ham,West Ham
+614,522,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,14365,0,0,522,Wes Foderingham,44,GKP,Nott'm Forest,West Ham,West Ham
+615,523,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,5,0,0,0,0,0,0,0,0,0,0,0,2,3.2,0.3,17.0,2.1,0,0.25,0.00,0.25,0.07,50,0,84653,0,0,523,Danny Ings,50,FWD,Nott'm Forest,West Ham,West Ham
+616,524,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,2,0,0,0,0,0,0,0,9,31.2,11.3,2.0,4.5,1,0.00,0.07,0.07,2.03,45,0,73980,0,0,524,Max Kilman,45,DEF,Nott'm Forest,West Ham,West Ham
+617,525,7,Aston Villa,2,True,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,2,0,0,0,0,0,0,0,11,7.6,27.5,22.0,5.7,1,0.08,0.47,0.55,2.03,65,0,763274,0,0,525,Mohammed Kudus,62,MID,Nott'm Forest,West Ham,West Ham
+618,526,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,3225,0,0,526,Luis Guilherme Lira dos Santos,48,MID,Nott'm Forest,West Ham,West Ham
+619,527,7,Aston Villa,6,True,2024-08-17T16:30:00Z,1,2,1,73,1,0,0,1,0,0,0,1,0,0,0,21,40.4,17.0,17.0,7.4,1,0.79,0.04,0.83,1.76,60,0,139323,0,0,527,Lucas Tolentino Coelho de Lima,59,MID,Nott'm Forest,West Ham,West Ham
+620,528,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,90,0,0,0,2,0,0,0,0,0,0,0,13,27.8,0.9,2.0,3.1,1,0.02,0.00,0.02,2.03,45,0,9711,0,0,528,Konstantinos Mavropanos,45,DEF,Nott'm Forest,West Ham,West Ham
+621,529,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,12428,0,0,529,Nayef Aguerd,44,DEF,Nott'm Forest,West Ham,West Ham
+622,530,7,Aston Villa,5,True,2024-08-17T16:30:00Z,1,2,1,90,0,1,0,2,0,0,0,0,0,0,0,8,3.4,20.8,35.0,5.9,1,1.10,0.12,1.22,2.03,50,0,210697,0,0,530,Tomáš Souček,50,MID,Nott'm Forest,West Ham,West Ham
+623,532,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,50531,0,0,532,Kurt Zouma,44,DEF,Nott'm Forest,West Ham,West Ham
+624,576,7,Aston Villa,0,True,2024-08-17T16:30:00Z,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,2056,0,0,576,Andy Irving,48,MID,Nott'm Forest,West Ham,West Ham
+625,587,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,17,0,0,0,1,0,0,0,0,0,0,0,9,8.2,29.4,6.0,4.4,0,0.00,0.17,0.17,0.27,60,0,86458,0,0,587,Crysencio Summerville,57,MID,Nott'm Forest,West Ham,West Ham
+626,588,7,Aston Villa,2,True,2024-08-17T16:30:00Z,1,2,1,84,0,0,0,2,0,0,0,0,0,0,0,15,5.6,1.9,1.0,0.9,1,0.02,0.03,0.05,1.96,50,0,5566,0,0,588,Guido Rodríguez,49,MID,Nott'm Forest,West Ham,West Ham
+627,589,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,17,0,0,0,1,0,0,0,0,0,0,0,2,1.2,0.4,0.0,0.2,0,0.00,0.00,0.00,0.27,70,0,362778,0,0,589,Niclas Füllkrug,67,FWD,Nott'm Forest,West Ham,West Ham
+628,591,7,Aston Villa,1,True,2024-08-17T16:30:00Z,1,2,1,5,0,0,0,0,0,0,0,0,0,0,0,2,3.0,0.0,0.0,0.3,0,0.00,0.00,0.00,0.07,45,0,39237,0,0,591,Jean-Clair Todibo,44,DEF,Nott'm Forest,West Ham,West Ham
+629,643,30,Man City,0,True,2024-08-31T16:30:00Z,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,643,Kaelan Casey,40,DEF,Nott'm Forest,West Ham,West Ham
+630,654,35,Fulham,0,False,2024-09-14T14:00:00Z,1,1,4,20,0,0,0,0,0,0,0,1,0,0,0,-1,7.2,0.3,0.0,0.8,0,0.00,0.00,0.00,0.68,50,538,875,741,203,654,Carlos Soler,50,MID,Nott'm Forest,West Ham,West Ham
+631,204,8,Brentford,0,False,2024-08-18T13:00:00Z,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,43430,0,0,204,Sam Johnstone,44,GKP,Wolves,Crystal Palace,Wolves
+632,533,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,83,0,0,0,2,0,0,0,0,0,0,0,6,9.0,3.5,1.0,1.4,1,0.02,0.02,0.04,1.24,45,0,204670,0,0,533,Rayan Aït-Nouri,45,DEF,Wolves,Crystal Palace,Wolves
+633,534,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,5450,0,0,534,Boubacar Traoré,48,MID,Wolves,Crystal Palace,Wolves
+634,535,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,56,0,0,0,1,0,0,0,0,0,0,0,2,0.0,1.3,1.0,0.0,1,0.07,0.00,0.07,0.99,50,0,3071,0,0,535,Jean-Ricner Bellegarde,50,MID,Wolves,Crystal Palace,Wolves
+635,536,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,194160,0,0,536,Daniel Bentley,40,GKP,Wolves,Crystal Palace,Wolves
+636,537,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,6,0,0,0,0,0,0,0,0,0,0,0,4,3.0,14.3,2.0,1.9,0,0.00,0.05,0.05,0.00,45,0,16796,0,0,537,Francisco Jorge Tomás Oliveira,45,MID,Wolves,Crystal Palace,Wolves
+637,538,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,7608,0,0,538,Tawanda Chirewa,45,MID,Wolves,Crystal Palace,Wolves
+638,539,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,9106,0,0,539,Leon Chiwome,45,FWD,Wolves,Crystal Palace,Wolves
+639,540,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,9908,0,0,540,Luke Cundle,45,MID,Wolves,Crystal Palace,Wolves
+640,541,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,33,0,0,0,1,0,0,0,0,0,0,0,9,13.8,16.2,17.0,4.7,0,0.06,0.02,0.08,0.25,65,0,197434,0,0,541,Matheus Santos Carneiro Da Cunha,65,FWD,Wolves,Crystal Palace,Wolves
+641,542,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,6,0,0,0,0,0,0,0,0,0,0,0,2,2.4,0.0,0.0,0.2,0,0.00,0.00,0.00,0.00,45,0,16382,0,0,542,Craig Dawson,44,DEF,Wolves,Crystal Palace,Wolves
+642,543,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,90,0,0,0,2,0,0,0,0,0,0,0,7,12.2,2.7,9.0,2.4,1,0.08,0.01,0.09,1.24,45,0,18088,0,0,543,Matt Doherty,44,DEF,Wolves,Crystal Palace,Wolves
+643,544,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,4063,0,0,544,Tommy Doyle,48,MID,Wolves,Crystal Palace,Wolves
+644,545,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,27869,0,0,545,Fábio Silva,50,FWD,Wolves,Crystal Palace,Wolves
+645,546,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,506533,0,0,546,Nathan Fraser,45,FWD,Wolves,Crystal Palace,Wolves
+646,547,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,2764,0,0,547,Enso González,45,MID,Wolves,Crystal Palace,Wolves
+647,548,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,55,0,7971,0,0,548,Gonçalo Manuel Ganchinho Guedes,53,MID,Wolves,Crystal Palace,Wolves
+648,549,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,2509,0,0,549,Hugo Bueno López,45,DEF,Wolves,Crystal Palace,Wolves
+649,550,2,Arsenal,2,False,2024-08-17T14:00:00Z,2,0,1,90,0,0,0,2,0,0,0,0,0,0,0,14,6.0,16.3,4.0,2.6,1,0.00,0.11,0.11,1.24,65,0,83019,0,0,550,Hwang Hee-chan,61,MID,Wolves,Crystal Palace,Wolves
+650,551,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,39994,0,0,551,Joe Hodge,45,MID,Wolves,Crystal Palace,Wolves
+651,552,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,27953,0,0,552,Ki-Jana Hoever,40,DEF,Wolves,Crystal Palace,Wolves
+652,553,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,83,0,0,0,2,0,0,0,1,0,0,0,11,8.6,3.2,0.0,1.2,1,0.00,0.02,0.02,1.24,50,0,11511,0,0,553,João Victor Gomes da Silva,49,MID,Wolves,Crystal Palace,Wolves
+653,554,2,Arsenal,2,False,2024-08-17T14:00:00Z,2,0,1,90,0,0,0,2,0,0,0,0,0,4,0,10,31.2,0.0,0.0,3.1,1,0.00,0.00,0.00,1.24,45,0,205429,0,0,554,José Malheiro de Sá,43,GKP,Wolves,Crystal Palace,Wolves
+654,555,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,50,0,8814,0,0,555,Saša Kalajdžić,48,FWD,Wolves,Crystal Palace,Wolves
+655,556,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,96111,0,0,556,Tom King,40,GKP,Wolves,Crystal Palace,Wolves
+656,557,2,Arsenal,2,False,2024-08-17T14:00:00Z,2,0,1,90,0,0,0,2,0,0,0,0,0,0,0,16,29.8,1.0,0.0,3.1,1,0.00,0.01,0.01,1.24,50,0,14599,0,0,557,Mario Lemina,50,MID,Wolves,Crystal Palace,Wolves
+657,558,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,90,0,0,0,2,0,0,0,0,0,0,0,8,21.8,14.9,0.0,3.7,1,0.00,0.02,0.02,1.24,40,0,40717,0,0,558,Yerson Mosquera,40,DEF,Wolves,Crystal Palace,Wolves
+658,559,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,1180,0,0,559,Nélson Cabral Semedo,45,DEF,Wolves,Crystal Palace,Wolves
+659,561,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,123257,0,0,561,Pedro Cardoso de Lima,40,DEF,Wolves,Crystal Palace,Wolves
+660,562,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,15,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0.2,1.0,0.0,0,0.04,0.00,0.04,0.06,55,0,3736,0,0,562,Daniel Castelo Podence,55,MID,Wolves,Crystal Palace,Wolves
+661,563,2,Arsenal,2,False,2024-08-17T14:00:00Z,2,0,1,74,0,0,0,2,0,0,0,0,0,0,0,6,0.0,6.3,10.0,1.5,1,0.05,0.01,0.06,1.18,55,0,13259,0,0,563,Rodrigo Martins Gomes,52,MID,Wolves,Crystal Palace,Wolves
+662,564,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,45,0,7482,0,0,564,Santiago Bueno,43,DEF,Wolves,Crystal Palace,Wolves
+663,565,2,Arsenal,1,False,2024-08-17T14:00:00Z,2,0,1,6,0,0,0,0,0,0,0,0,0,0,0,6,7.4,1.3,17.0,2.6,0,0.08,0.01,0.09,0.00,55,0,20559,0,0,565,Pablo Sarabia,51,MID,Wolves,Crystal Palace,Wolves
+664,566,2,Arsenal,2,False,2024-08-17T14:00:00Z,2,0,1,83,0,0,0,2,0,0,0,0,0,0,0,2,2.4,1.9,23.0,2.7,1,0.08,0.00,0.08,1.24,55,0,17027,0,0,566,Jørgen Strand Larsen,55,FWD,Wolves,Crystal Palace,Wolves
+665,567,2,Arsenal,0,False,2024-08-17T14:00:00Z,2,0,1,90,0,0,0,2,0,0,0,1,0,0,0,-6,8.4,1.3,6.0,1.6,1,0.00,0.01,0.01,1.24,45,0,21377,0,0,567,Toti António Gomes,43,DEF,Wolves,Crystal Palace,Wolves
+666,637,29,Nott'm Forest,0,False,2024-08-31T14:00:00Z,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,1806,3273,2014,208,637,Bastien Meupiyou,40,DEF,Wolves,Crystal Palace,Wolves
+667,642,29,Nott'm Forest,1,False,2024-08-31T14:00:00Z,1,1,3,4,0,0,0,0,0,0,0,0,0,0,0,4,2.2,0.1,0.0,0.2,0,0.00,0.00,0.00,0.15,50,0,0,0,0,642,André Trindade da Costa Neto,50,MID,Wolves,Crystal Palace,Wolves
+668,655,40,Newcastle,1,True,2024-09-15T15:30:00Z,1,2,4,4,0,0,0,0,0,0,0,0,0,0,0,5,2.2,0.8,8.0,1.1,0,0.00,0.00,0.00,0.38,55,149,535,210,61,655,Carlos Roberto Forbs Borges,55,MID,Wolves,Crystal Palace,Wolves
+669,664,60,Liverpool,0,True,2024-09-28T16:30:00Z,1,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0.00,0.00,0.00,0.00,40,0,0,0,0,664,Alfie Pond,40,DEF,Wolves,Crystal Palace,Wolves
